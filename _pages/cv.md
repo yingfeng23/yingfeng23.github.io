@@ -111,6 +111,8 @@ Jan. 2018 - "Meta-analysis of gut microbiome studies identifies disease-specific
 
 # Leadership and service
 
+_[Read more](https://cduvallet.github.io/posts/2019/03/co-first-non-academic) about my leadership and service activities during my PhD._
+
 ## Academic and Professional
 
 [**MIT Microbiome Club**](http://microbiome.mit.edu/get-involved/#club), *co-Founder*, *President* (2015-2016), *Executive board member* (2016-2018)
