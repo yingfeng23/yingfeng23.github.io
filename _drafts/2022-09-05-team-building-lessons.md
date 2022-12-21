@@ -1,5 +1,5 @@
 ---
-title:  "Early startup employee lessons learned, part 3: building a team"
+title:  "Early startup employee lessons learned, part 3: growing a team"
 permalink: /posts/2022/09/early-startup-team-building
 date: 2022-06-26
 ---
@@ -40,44 +40,73 @@ And when we received a new contract that needed an entirely new pipeline written
 Speaking of senior hires, the most important lesson I've learned is that if you're hiring for that team's leader but also semi-desperately need senior individual contributors, you should absolutely _not_ wait to hire the leader before hiring the IC's.
 Luckily, the data science had a handful of opportunistic senior hires so we didn't run into this issue.
 We hired our director of data science when we were already a fully-functional team of over 10 people, after an approximately year-long search.
-If we had waited to find him before starting to fill out our ICs, we would have not succeeded.
+If we had waited to find him before starting to fill out our ICs, we would have not succeeded as a team or perhaps even a company.
 In contrast, other teams at my company _have_ waited to hire a senior leader before filling out the team's ranks.
 These teams really struggle with being overworked, not having clear processes or technical direction, and are generally falling behind the rest of the company's growth. 
-In my opinion, senior ICs should be hired as soon as they are needed because they can provide an important bridge until the leader is hired without accumulating too much technical debt.
+In my opinion, senior ICs should be hired as soon as they are needed because they can provide an important bridge until the leader is hired without accumulating too much technical or operational debt.
 
 One pushback I've heard in favor of waiting to hire ICs until there is a leader is that the management chain rapidly becomes unmanageable, with individuals at the top having way too many direct reports.
 I empathize with this situation, since nobody wants to manage more than 5 people (and nobody wants to be managed by someone with more than 5 reports).
 But it shouldn't be a blocker to making the hires that you need - it should be addressed creatively and with open communication.
 For example, restructuring teams so that not everybody is reporting to the same individual, breaking up job descriptions so that a leader or manager hire is easier to make, or simply being open and honest about the reality of the situation and working together to remedy it.
-In my experience, as our data science team grew I ended up managing three individual contributors who were more senior than me for about a year.
-It was a little strange and little lonely, but I treated them essentially like peers: I served as a honest conduit with our upper management and did my best to provide feedback on their performance, but as far as the actual work that they did, we were very much partners in figuring out what to do and how to do it.
-It was a strange but fruitful relationship, and also meant that as they got promoted into more senior roles and as we fleshed out our management structure, the transition to being peers was extremely seamless.
+In my experience, as our data science team grew I ended up managing three individual contributors who were at or above my seniority level for about a year.
+It was a little weird and definitely lonely, but I treated them essentially like peers: I served as a honest conduit with our upper management and did my best to provide feedback on their performance, but as far as the actual work that they did, we were very much partners in figuring out what to do and how to do it.
+It was a strange but fruitful relationship, and also meant that as they got promoted into more senior roles and as we fleshed out our management structure, the transition to being true peers was fairly seamless.
 
 Despite my energy and passion for senior hires, there are absolutely times when a junior hire is a great idea.
 If the work you need to offload is repetitive or operational and fairly stable, you can almost certainly transition it to a junior hire.
 I also learned this the hard way: our daily data review was done by PhD's for over a year, whereas now it's performed by a team of entry-level data analysts.
 For a long time, we felt that the work we were doing was "too special" to be handed off to a junior hire.
-But we were wrong - it was difficult to hand off, but it's not because it was special, it's becuase it wasn't documented.
+But we were wrong - it was difficult to hand off, but it's not because it was special, it's because it wasn't documented.
 Once we wrote down what we were actually doing, within three months we had almost completely offboarded it to our new entry-level team.
 
 Finally, I am strong a believer in opportunistic hires.
 I took a management training earlier this year which emphasized a quote from a management book: focus on getting the right people on the bus and the wrong people off the bus first, and _then_ figure out everybody's seats.
 Some of our best hires were opportunistic - one applied to a stale position we'd forgotten to take down, another was a more senior candidate than we were originally intending to hire, and yet another was a former colleague who we knew had great potential despite having absolutely no idea where to place him. 
+All three have gone on to do great work and dramatically improve our company's chances of success.
 
 # Building the culture
 
-As I mentioned in [Part 1](/posts/2022/11/early-startup-employee-change), building an open and collaborative team culture is one of my proudest achivements. 
+As I mentioned in [Part 1](/posts/2022/11/early-startup-employee-change), building an open and collaborative team culture on my team is one of my proudest achievements. 
+Because I care a lot about organizational culture [todo: link to mckinsey thing here], a lot of this culture came about organically through my hiring decisions, early management role, and general positioning as an influential teammate.
+But as I reflect on the past two years, I can identify some specific things I did that contributed to our positive outcome.
 
-- communicate about how you communicate
-  - in remote environment
-  - accountability: talk about it continuously, and enforce the norms when you start to deviate. (When someone asks "is this the right channel to post this in?" - answer their question!)
-  - at biobot, we have fun things like "pulling a claire" or "pulling a scott"
+### Communicating about how we communicate
+
+Again, this is something that comes naturally to me but that I see my team doing much more than other teams at my company.
+I think that talking about how we communicate and adapting our team's behaviors, processes, and norms as the team grew and changed has helped us maintain a functional working culture despite our rapid growth.
+I think this is also especially important given that we're primarily remote: communication doesn't come for free, it _has_ to be an active effort. 
+
+Team processes that improve our comms:
+- sprint retros
+- changing the channels we use
+- adding disclaimers to slack messages, google docs, and presentation decks
+
+Just... talk about it!
+- When someone asks "is this the right channel to post this in?" - answer their question! (We're kinda the only team I see do this)
+- enforcing the norms when you start to deviate (esp new people: getting them out of private channels and into public ones)
+- give it names! Pulling a Scott, pulling a Claire, pulling a Nadia
+
+Hire for it
+- how to communicate unfinished work? to the CEO?
+- primary signal we're looking for is what questions they ask, not necessarily the answers they give
+
+### Intentional onboarding
+- 
 - provide intentional tasks during onboarding
-  - 30-60-90 is nice, but realistically you only need to plan for like 30 days. after a month, things will probably have changed enough that a new path has become clear
-  - onboarding is the moment to create the culture! "make a plot!" is my favorite onboarding task, and we made sure that our director of DS did it too :D
+    - 30-60-90 is nice, but realistically you only need to plan for like 30 days. after a month, things will probably have changed enough that a new path has become clear
+    - onboarding is the moment to create the culture! "make a plot!" is my favorite onboarding task, and we made sure that our director of DS did it too :D
+    - who do they need to meet? think about close colleagues, nearby teams, and influential figures that are important for them to have at least spoken to once
+
+### Model the behavior
+
 - model the behavior you want from your colleagues, esp with your co-leaders (meh)
-  - I want small talk when zoom meetings start, so I try to small talk!
-  -
+  - I want small talk when zoom meetings start, so I try to small talk! even though I don't actually like small talk and would usually rather finish up a task than chat
+  - I want people to redirect posts to the right channels, so I do it (when it's appropriate)
+- 
+
+### Embrace being the broken record
+
 - give your rationale / explain the "why" behind what you're doing (to build an engaged team)
   - you'll probably feel like a broken record, but that's how it'll stick
   - nothing better than hearing one of your colleagues - especially someone junior! - connect the dots themselves, take that extra step because they understand the big picture behind what they're doing.
