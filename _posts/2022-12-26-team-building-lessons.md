@@ -27,7 +27,7 @@ We also encourage holding each other accountable to the shared communication nor
 
 My favorite way that our team talks about how we communicate is by giving cute names to specific communication strategies we see others use effectively. So far, my favorites are: 
 - "pulling a Claire" which means "asking someone to surface a private message in a public channel." 
-- "pulling a Scott" which means "bring up an issue by making statements that nobody can disagree with and naively asking questions with the hopes of sparking the change you'd like to see," 
+- "pulling a Scott" which means "bring up an issue by making statements that nobody can disagree with and naively asking questions with the hopes of sparking the change you'd like to see." 
 - "pulling a Nadia" which means "addressing a vague request by calmly asking for more details and links to documentation if it exists." 
 
 As we see our colleagues find ways to effectively communicate with us and others, we talk about what it is that makes them effective and learn from them.
@@ -61,7 +61,7 @@ At that point, three sub-teams within the data science team had started to form,
 Another easy way to build a positive and collaborative culture is to bake your team's values into standard onboarding tasks.
 Preparing a plan for new hires' first 30, 60, and 90 days of their job is great, but realistically you only need a plan for the first 2-4 weeks. 
 After that, things will have probably changed enough either with the company or with the new hire figuring out where they fit in their new role that a new path will have become clear.
-Instead, putting in effort to create standardized and intentional onboarding tasks that immediately ask new hires to put your team's core values into practice is a great use of energy that has more impact than individualized long-term planning. 
+Instead, putting in effort to create standardized and intentional onboarding tasks that immediately ask new hires to put your team's core values into practice is a great use of energy that may have more impact than individualized long-term planning. 
 
 On our team, onboarding involves two core activities: meeting a lot of people and making a plot.
 When we set up intro meetings for new hires, we intentionally go for a broader circle than the individuals they'll be working with directly.
@@ -95,3 +95,8 @@ Of course, explicit training and documentation would probably be a better way to
 
 When in doubt, I've found that clearly spelling out the "why" behind what we're doing can be a great substitute for process and documentation, and is a good way to help others connect the dots themselves and understand the bigger picture behind what they're being asked to do.
 
+_If you liked this post, check out the rest of the series on being an early startup employee:_
+- _[Part 1: affecting change within your org](/posts/2022/11/early-startup-employee-change)_
+- _[Part 2: coping with the emotional rollercoaster](/posts/2022/11/early-startup-employee-coping)_
+- _[Part 3 (this post): building a team culture](/posts/2022/12/early-startup-team-growth-culture)_
+- _[Part 4: adapting to your changing role](/posts/2023/02/early-startup-changing-role)_
