@@ -29,7 +29,7 @@ _GPA: Distinction
 
 # Visiting Experiences
 
-**Affective Intelligence and Robotics Lab | Department of Computer Science and Technology| Univeristy of Cambridge**,  Visiting PhD Student(2023-now)   
+**Affective Intelligence and Robotics Lab | Department of Computer Science and Technology| Univeristy of Cambridge**,  Visiting PhD Student (2023-now)   
 _Research Topic: Humanizing Technology: Exploring the Intersection of Robotic Anthropomorphism, Affective Intelligence, and Consumer Well-Being.
 _Supervisor:Professor Hatice Gunes
 •	Head of Affective Intelligence & Robotics Lab (AFAR)
