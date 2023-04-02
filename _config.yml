@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : cduvallet
+  username               : YingFengDM
 facebook:
   username               :
   app_id                 :
@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Ying Feng"
   avatar           : "claire_duvallet_2022.jpg"
-  bio              : "data science @ Biobot Analytics | public health data, microbiome, personalized medicine | gender and racial equity in STEM | former Luce Scholar in Cambodia | she/hers"
-  #location         : "Boston, MA"
+  bio              : "PhD in Digital Marketing | Digital Anthropomorphism | Human-Agnet Interaction | Consumer Psychology | she/hers"
+  #location         : "London, UK"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=sXD-7J4AAAAJ&hl=en&oi=ao"
-  email            : "cduvallet@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=S5H7pxYAAAAJ&hl=en"
+  email            : "y.feng@lboro.ac.uk"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "cduvallet"
+  github           : "yingfeng23"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "cduvallet"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : "yingfengdm"
+  orcid            : #"https://orcid.org/0000-0002-6060-4899"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "cduvallet"
+  twitter          : "YingFengDM"
   vine             :
   weibo            :
   xing             :
