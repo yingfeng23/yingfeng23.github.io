@@ -29,11 +29,6 @@ _GPA: Distinction
 
 # Visiting Experiences
 
-**Affective Intelligence and Robotics Lab | Department of Computer Science and Technology| Univeristy of Cambridge**,  Visiting PhD Student (2023-now)   
-_Research Topic: Humanizing Technology: Exploring the Intersection of Robotic Anthropomorphism, Affective Intelligence, and Consumer Well-Being.
-_Supervisor:Professor Hatice Gunes
-•	Head of Affective Intelligence & Robotics Lab (AFAR)
-
 
 **Department of Marketing|Grenoble Ecole de Management**, Short Visiting (Sep.2022)
 _Supervisor:Dr Yan Meng
@@ -48,7 +43,7 @@ See [publications](/publications/) page.
 
 # Reviewer
 I serve as a peer-reviewer in my field.
-• Reviewer at AMA Summer Academic Conference
+• **American Marketing Association** (AMA) Summer Academic Conference, Reviewer
 
 
 
