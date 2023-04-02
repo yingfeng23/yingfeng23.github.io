@@ -10,12 +10,18 @@ redirect_from:
 
 # Education
 
-**Massachusetts Institute of Technology**, PhD in Biological Engineering (Jan 2019)    
-_Mining the human microbiome for clinical insight_; [thesis](https://www.dropbox.com/s/elvp8qzrz3zsjyx/duvallet_thesis_final.pdf?dl=0), [defense](https://www.dropbox.com/s/j4b11wa8a4r42j8/2019-01-11.defense.pdf?dl=0)
+**Loughborough University|Insitute for Digital Technologies**, PhD in Digital Marketing (Oct. 2020- now)    
+_Research Topic: Experiementalisation and theorisation of digital agency in digital communication.
+_First Supervisor: Dr. Jie Meng 
+•	Deputy Director of Doctoral Programme (DDDP); Programme Director (PD) of Digital Marketing
+_Second Supervisor: Dr. Xiyu Shi 
+•	Programme Director for MSc Digital Innovation Management
 
-**Columbia University**, B.S. in Biomedical Engineering (2013)   
+**Loughborough University|Insitute for Sport Business**, MRes. in Sport Business (2018-2019)  
+_GPA: Distinction
 
-James Bowie High School, Austin, TX (2009)
+**Beijing Sport University|School of Management**, BSc. in Sport Ecnomics and Management (2014-2018)  
+
 
 ***
 
