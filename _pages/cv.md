@@ -62,7 +62,7 @@ I serve as a peer-reviewer in my field.
 
 ***
 
-# Leadership and service
+# Leadership and Service
 
 •	Oct. 2014/ 2016. Volunteer at the **NBA China Wukesong Games**, responsible for on-site entrance guidance and order maintenance.
 
