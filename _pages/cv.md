@@ -12,23 +12,20 @@ redirect_from:
 
 **Loughborough University, Insitute for Digital Technologies**, PhD in Digital Marketing (Oct. 2020-now) 
 
-**_Research Topic:** Experiementalisation and theorisation of digital agency in digital communication.
+Research Topic: Experiementalisation and theorisation of digital agency in digital communication.
 
-_First Supervisor: Dr. Jie Meng 
+First Supervisor: Dr. Jie Meng, Deputy Director of Doctoral Programme (DDDP); Programme Director (PD) of Digital Marketing
 
-•	Deputy Director of Doctoral Programme (DDDP); Programme Director (PD) of Digital Marketing
-
-_Second Supervisor: Dr. Xiyu Shi 
-
-•	Programme Director for MSc Digital Innovation Management
+Second Supervisor: Dr. Xiyu Shi, Programme Director for MSc Digital Innovation Management
 
 
-**Loughborough University, Insitute for Sport Business**, MRes in Sport Business (2018-2019)  
-**_Research Topic:** London Cycling Market Analysis: The influence of Age and Cycling Purpose on Environment Attitudes.
+**Loughborough University, Insitute for Sport Business**, MRes in Sport Business (2018-2019) 
 
-_Supervisor: Dr Roy Meriton
+Research Topic: London Cycling Market Analysis: The influence of Age and Cycling Purpose on Environment Attitudes.
 
-_GPA: Distinction
+Supervisor: Dr Roy Meriton
+
+GPA: Distinction
 
 
 **Beijing Sport University, School of Management**, BSc in Sport Ecnomics and Management (2014-2018)  
@@ -42,9 +39,9 @@ _GPA: Distinction
 
 **University of Cambridge, Department of Computer Science and Technology**, Visiting PhD student (from May 2023)
 
-_Supervisor:Professor Hatice Gunes
+Supervisor:Professor Hatice Gunes
 
-**_Research Topic:** Humanizing Technology: Exploring the Intersection of Robotic Anthropomorphism, Affective Intelligence, and Consumer Well-Being.
+Research Topic: Humanizing Technology: Exploring the Intersection of Robotic Anthropomorphism, Affective Intelligence, and Consumer Well-Being.
 
 •	Investigate how robotic appearance anthropomorphism and affective intelligence can be used to enhance consumer well-being.
 
@@ -53,7 +50,7 @@ _Supervisor:Professor Hatice Gunes
 
 **Grenoble Ecole de Management, Department of Marketing**, Short Visiting (Sep.2022)
 
-_Supervisor:Dr Yan Meng
+Host:Dr Yan Meng
 
 ***
 
@@ -87,19 +84,19 @@ I serve as a peer-reviewer in my field.
 
 # Leadership and Volunteer
 
-•	Oct. 2014/ 2016. Volunteer at the **NBA China Wukesong Games**, responsible for on-site entrance guidance and order maintenance.
+•	Oct. 2014/ 2016. **Volunteer** at the **NBA China Wukesong Games**, responsible for on-site entrance guidance and order maintenance.
 
-•	Apr. 2017. Volunteer at the **CSMF Global Sports Industry Conference**, responsible for maintaining order in the main conference hall and at the participants' reception.
+•	Apr. 2017. **Volunteer** at the **CSMF Global Sports Industry Conference**, responsible for maintaining order in the main conference hall and at the participants' reception.
 
-•	Oct. 2018. Volunteer at **Six Day London**, Telemetry Data Operations team, responsible for fitting, monitoring, and removing telemetry sensors to professional athletes’ bikes pre/during/post-event and communicating with professional athletes regarding equipment and sensors.
+•	Oct. 2018. **Volunteer** at **Six Day London**, Telemetry Data Operations team, responsible for fitting, monitoring, and removing telemetry sensors to professional athletes’ bikes pre/during/post-event and communicating with professional athletes regarding equipment and sensors.
 
-•	Oct. 2019. Volunteer at the **15th World Chinese Entrepreneurs Convention**, responsible for the reception of VIPs and presentation of Tibetan companies and product exhibitions.
+•	Oct. 2019. **Volunteer** at the **15th World Chinese Entrepreneurs Convention**, responsible for the reception of VIPs and presentation of Tibetan companies and product exhibitions.
 
-•	Sep. 2021-Mar 2022. **Postgraduate Research Representative** at Loughborough University London, responsible for communicating with the University on behalf of the doctoral researchers, passing on problems and providing solutions.
+•	Sep. 2021-Mar 2022. **Postgraduate Research Representative** at **Loughborough University London**, responsible for communicating with the University on behalf of the doctoral researchers, passing on problems and providing solutions.
 
-•	2016-2018. Network Administrator intern at Information Network Centre in Beijing Sport University, responsible for daily campus network maintenance work.
+•	2016-2018. **Network Administrator intern** at **Information Network Centre in Beijing Sport University**, responsible for daily campus network maintenance work.
 
-•	Nov. 2017-Jan. 2018. Assistant Teacher at **New Oriental Education & Technology Group Inc**., IELTS department, responsible for recording Classroom key points, contacting parents and getting feedback.
+•	Nov. 2017-Jan. 2018. **Assistant Teacher** at **New Oriental Education & Technology Group Inc**., IELTS department, responsible for recording Classroom key points, contacting parents and getting feedback.
 
 ***
 
