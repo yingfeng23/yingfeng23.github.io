@@ -50,7 +50,7 @@ Research Topic: Humanizing Technology: Exploring the Intersection of Robotic Ant
 
 **Grenoble Ecole de Management, Department of Marketing**, Short Visiting (Sep.2022)
 
-Host:Dr Yan Meng
+Host: Dr Yan Meng
 
 ***
 
@@ -69,7 +69,7 @@ I serve as a peer-reviewer in my field.
 # Research Skills 
 •	Methods: Statistical Analysis (SEM, ANOVA/MANOVA, Regression Analysis), Systematic Analysis (Bibliometric Analysis), Spatial Clustering Analysis (DBSCAN), Eye-tracking Analysis
 
-•	Software: SPSS, Amos/SmartPLS, VOSviewer/ Bibliometrix R (Bibliometric Analysis), ArcGIS Pro, Python, R, iMotions
+•	Software: SPSS, Amos/SmartPLS, VOSviewer/Bibliometrix R (Bibliometric Analysis), ArcGIS Pro, Python, R, iMotions
 
 
 ***
