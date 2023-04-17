@@ -43,9 +43,6 @@ Supervisor:Professor Hatice Gunes
 
 Research Topic: Humanizing Technology: Exploring the Intersection of Robotic Anthropomorphism, Affective Intelligence, and Consumer Well-Being.
 
-•	Investigate how robotic appearance anthropomorphism and affective intelligence can be used to enhance consumer well-being.
-
-•	use psychological scale, eye-tracking, and galvanic skin response (GSR) technologies to gather data on consumer psychological, emotional, and physiological responses.
 
 
 **Grenoble Ecole de Management, Department of Marketing**, Short Visiting (Sep.2022)
