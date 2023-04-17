@@ -1,9 +1,8 @@
 ---
+#layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 ***
@@ -47,5 +46,6 @@ redirect_from:
 •	Email and office hours Q/A. 
 
 •	Student approval rating of 3.59 on a 4-point scale.
+
 
 
