@@ -1,18 +1,10 @@
 # main links links:
- # - title: "Blog"
- #   url: /blog/
-
+ 
   - title: "Research Experience"
     url: /research/
 
-#  - title: "Talks"
-#    url: /talks/
-
-- title: "Teaching Experience"
-  url: /teaching/
-
-#  - title: "Portfolio"
-#    url: /portfolio/
+  - title: "Teaching Experience"
+    url: /teaching/
 
   - title: "CV"
     url: /cv/
@@ -20,11 +12,7 @@
   - title: "Fundings/Grants/Awards"
     url: /markdown/
 
-# - title: "Career"
-# url: /career/
-
   - title: "Publications"
     url: /publications/
 
-#  - title: "Road trip"
-#    url: /travel/
+
