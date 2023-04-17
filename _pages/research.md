@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 My PhD Research Topic: **Experiementalisation and theorisation of digital agency in digital communication**.
+
+**Key Contributions:**
+
 •	Organise the types of digital agency and summarise the antecedents, development, as well as synergy of digital agency anthropomorphism.
 
 •	Conceptualise the psychological process of human-agency interaction based on the para-social relationship theoretical framework and propose a new conceptual model.
