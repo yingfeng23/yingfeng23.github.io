@@ -26,3 +26,21 @@ One of the key aspects of a digital agency is **digital anthropomorphism**, whic
 Furthermore, I'm exploring the psychological interaction mechanisms in three main dimensions: **digital agents, individual differences, and social influences**. By examining these dimensions, I hope to better understand how digital agents affect human behaviour and how individual differences and social influences play a role in this process. In addition, we obtain a more objective biometric measurement by collecting eye movement and galvanic skin response data, which helps us better understand humans' emotional arousal and concerns.
 
 One of the key questions I'm investigating is whether differences in digital agency affect how people interact with institutions. For example, do people interact differently with a customer service chatbot than with a virtual assistant in healthcare and sports exercise? By understanding these differences, we can improve the design and implementation of digital agents to better meet the needs of different contexts and scenarios.
+
+
+# Research Assistant Experiences
+Oct. 2021-Dec. 2022. Research Assistant at Dr. Jie Meng’s **‘Social Distancing in Servicescape’** collaborative research project (cooperate with Professor Brain King at Texas A&M University and Dr. Mingjie Ji at Oxford Brookes University). In charge of:
+
+•	Conceptual model building and data analysis (SEM) using Amos and SPSS. 
+
+•	Paper writing (submitted two papers as the first author, one has published, see [publications](/publications/) page).
+
+
+May 2022-Jan. 2023. Research Assistant at Dr. Kun Fu’s **‘Patent Renewal and Corporate Geographic Location’** research project, Institute for Innovation and Entrepreneurship, Loughborough University London. In charge of:
+
+•	Spatial clustering analysis of patent and inventor data from the United States Patent and Trademark Office (USPTO) using the DBSCAN method with ArcGIS Pro (approximately 50,000 data).
+
+•	Methods section related to DBSCAN analysis writing (Submitted a paper as the third author). 
+
+
+ 
