@@ -1,18 +1,31 @@
-# main links links:
- 
-  - title: "Research Experience"
-    url: /research/
+# main links links
+main:
+  - title: "Blog"
+    url: /blog/
 
-  - title: "Teaching Experience"
-    url: /teaching/
+  # - title: "Research"
+  #   url: /research/
+
+#  - title: "Talks"
+#    url: /talks/
+
+#  - title: "Teaching"
+#    url: /teaching/
+
+#  - title: "Portfolio"
+#    url: /portfolio/
 
   - title: "CV"
     url: /cv/
 
-  - title: "Fundings/Grants/Awards"
-    url: /markdown/
+#  - title: "Guide"
+#    url: /markdown/
+
+  - title: "Career"
+    url: /career/
 
   - title: "Publications"
     url: /publications/
 
-
+#  - title: "Road trip"
+#    url: /travel/
