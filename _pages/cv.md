@@ -10,7 +10,7 @@ redirect_from:
 
 # Education
 
-**Loughborough University | Insitute for Digital Technologies**, PhD in Digital Marketing (Oct. 2020 - now) 
+**Loughborough University|Insitute for Digital Technologies**, PhD in Digital Marketing (Oct. 2020-now) 
 
 _Research Topic: Experiementalisation and theorisation of digital agency in digital communication.
 
@@ -22,14 +22,16 @@ _Second Supervisor: Dr. Xiyu Shi
 
 •	Programme Director for MSc Digital Innovation Management
 
-**Loughborough University | Insitute for Sport Business**, MRes. in Sport Business (2018 - 2019)  
+
+**Loughborough University|Insitute for Sport Business**, MRes in Sport Business (2018-2019)  
 _Research Topic: London Cycling Market Analysis: The influence of Age and Cycling Purpose on Environment Attitudes.
 
 _Supervisor: Dr Roy Meriton
 
 _GPA: Distinction
 
-**Beijing Sport University | School of Management**, BSc. in Sport Ecnomics and Management (2014 - 2018)  
+
+**Beijing Sport University|School of Management**, BSc in Sport Ecnomics and Management (2014-2018)  
 
 
 ***
@@ -38,7 +40,7 @@ _GPA: Distinction
 
 # Visiting Experiences
 
-**Department of Computer Science and Technology | University of Cambridget**, Visiting PhD student (from May.2023)
+**Department of Computer Science and Technology|University of Cambridget**, Visiting PhD student (from May 2023)
 
 _Supervisor:Professor Hatice Gunes
 
@@ -49,7 +51,7 @@ _Research Topic: Humanizing Technology: Exploring the Intersection of Robotic An
 •	use psychological scale, eye-tracking, and galvanic skin response (GSR) technologies to gather data on consumer psychological, emotional, and physiological responses.
 
 
-**Department of Marketing | Grenoble Ecole de Management**, Short Visiting (Sep.2022)
+**Department of Marketing|Grenoble Ecole de Management**, Short Visiting (Sep.2022)
 
 _Supervisor:Dr Yan Meng
 
@@ -64,7 +66,7 @@ See [publications](/publications/) page.
 # Reviewer
 I serve as a peer-reviewer in my field.
 
-• **American Marketing Association** (AMA) Summer Academic Conference, Reviewer
+• **American Marketing Association** (AMA). 2023 Summer Academic Conference, Reviewer
 
 
 
