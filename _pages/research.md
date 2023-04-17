@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
+# PhD Research
 My PhD Research Topic: **Experiementalisation and theorisation of digital agency in digital communication**.
 
 **Key Contributions:**
@@ -33,7 +33,7 @@ Oct. 2021-Dec. 2022. Research Assistant at Dr. Jie Meng’s **‘Social Distanci
 
 •	Conceptual model building and data analysis (SEM) using Amos and SPSS. 
 
-•	Paper writing (submitted two papers as the first author, one has published, see [publications](/publications/) page).
+•	Paper writing (submitted two papers as the first author).
 
 
 
