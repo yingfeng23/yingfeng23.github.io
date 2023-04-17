@@ -12,7 +12,7 @@ redirect_from:
 
 **Loughborough University, Insitute for Digital Technologies**, PhD in Digital Marketing (Oct. 2020-now) 
 
-_Research Topic: Experiementalisation and theorisation of digital agency in digital communication.
+**_Research Topic:** Experiementalisation and theorisation of digital agency in digital communication.
 
 _First Supervisor: Dr. Jie Meng 
 
@@ -24,7 +24,7 @@ _Second Supervisor: Dr. Xiyu Shi
 
 
 **Loughborough University, Insitute for Sport Business**, MRes in Sport Business (2018-2019)  
-_Research Topic: London Cycling Market Analysis: The influence of Age and Cycling Purpose on Environment Attitudes.
+**_Research Topic:** London Cycling Market Analysis: The influence of Age and Cycling Purpose on Environment Attitudes.
 
 _Supervisor: Dr Roy Meriton
 
@@ -44,7 +44,7 @@ _GPA: Distinction
 
 _Supervisor:Professor Hatice Gunes
 
-_Research Topic: Humanizing Technology: Exploring the Intersection of Robotic Anthropomorphism, Affective Intelligence, and Consumer Well-Being.
+**_Research Topic:** Humanizing Technology: Exploring the Intersection of Robotic Anthropomorphism, Affective Intelligence, and Consumer Well-Being.
 
 •	Investigate how robotic appearance anthropomorphism and affective intelligence can be used to enhance consumer well-being.
 
@@ -85,7 +85,7 @@ I serve as a peer-reviewer in my field.
 
 ***
 
-# Leadership and Service
+# Leadership and Volunteer
 
 •	Oct. 2014/ 2016. Volunteer at the **NBA China Wukesong Games**, responsible for on-site entrance guidance and order maintenance.
 
