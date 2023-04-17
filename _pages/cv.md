@@ -65,6 +65,11 @@ I serve as a peer-reviewer in my field.
 
 • **American Marketing Association** (AMA). 2023 Summer Academic Conference, Reviewer
 
+***
+# Research Skills 
+•	Methods: Statistical Analysis (SEM, ANOVA/MANOVA, Regression Analysis), Systematic Analysis (Bibliometric Analysis), Spatial Clustering Analysis (DBSCAN), Eye-tracking Analysis
+
+•	Software: SPSS, Amos/SmartPLS, VOSviewer/ Bibliometrix R (Bibliometric Analysis), ArcGIS Pro, Python, R, iMotions
 
 
 ***
@@ -96,7 +101,7 @@ I serve as a peer-reviewer in my field.
 
 •	2016-2018. **Network Administrator intern** at **Information Network Centre in Beijing Sport University**, responsible for daily campus network maintenance work.
 
-•	Nov. 2017-Jan. 2018. **Assistant Teacher** at **New Oriental Education & Technology Group Inc**., IELTS department, responsible for recording Classroom key points, contacting parents and getting feedback.
+•	Nov. 2017-Jan. 2018. **Assistant Teacher** at **New Oriental Education & Technology Group Inc**., IELTS department, responsible for recording key contents of each lesson, contacting parents and getting feedback.
 
 ***
 
