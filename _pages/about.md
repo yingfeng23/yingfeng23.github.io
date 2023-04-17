@@ -13,3 +13,12 @@ I am a diligent and determined third-year Digital Marketing Ph.D. student, study
 
 Before Ph.D., I received my Master of Research (MRes) Degree in Sport Business with Distinction from the Institute for Sport Business at Loughborough University. Before that, I studies BSc Sport Ecnomics and Management at Beijing Sport University.
 
+# Core Skills
+•	Behavioural Research; Consumer Psychology      | •	Research Assistant (Strategic Management)
+•	Quantitative/Statistical/Systematic Analysis   | •	Teaching Assistant (MSc students) 
+•	Publications in the Top 3% of Classics Journal | •	Biometric Data Analysis (Eye-tracking/GSR)
+•	Grant and Funding Application                  | •	English (Fluent); Chinese (Native)
+
+
+
+
