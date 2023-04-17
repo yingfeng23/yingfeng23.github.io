@@ -3,6 +3,9 @@ main:
 #  - title: "Blog"
 #    url: /blog/
 
+  - title: "CV"
+    url: /cv/
+    
   - title: "Research"
     url: /research/
 
@@ -15,14 +18,13 @@ main:
 #  - title: "Portfolio"
 #    url: /portfolio/
 
-  - title: "CV"
-    url: /cv/
+
 
 #  - title: "Guide"
 #    url: /markdown/
 
-  - title: "Career"
-    url: /career/
+#  - title: "Career"
+#    url: /career/
 
   - title: "Publications"
     url: /publications/
