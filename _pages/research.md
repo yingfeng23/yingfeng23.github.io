@@ -5,22 +5,21 @@ permalink: /research/
 author_profile: true
 ---
 
-My PhD research was motivated by my interest in harnessing large, untargeted biological data to better understand, predict, and monitor human disease.
-More broadly, I'm interested in using **personalized medicine approaches for public health**.
+My PhD Research Topic: **Experiementalisation and theorisation of digital agency in digital communication**.
+•	Organise the types of digital agency and summarise the antecedents, development, as well as synergy of digital agency anthropomorphism.
 
-My main PhD project was a large **[meta-analysis of case-control gut microbiome studies](https://www.nature.com/articles/s41467-017-01973-8)**.
-We found generalizable insights about patterns of microbiome shifts and showed that most disease-associated bacteria found in individual studies are not specific to the disease under study.
-You can check out the [paper](https://www.nature.com/articles/s41467-017-01973-8) or a more colloquial summary on my Nature Microbiology [behind the paper blog](http://go.nature.com/2As9meL).
+•	Conceptualise the psychological process of human-agency interaction based on the para-social relationship theoretical framework and propose a new conceptual model.
 
-I'm proud to have used this project as an opportunity to practice **reproducible, open science**: every analysis in the paper can be re-made with the code on my [github](http://github.com/cduvallet/microbiomeHD), and we put the data on [Zenodo](https://zenodo.org/record/840333#.WbdUMtOGPBI).
+•	Explain the psychological mechanisms of interaction in three main dimensions: digital agency, individual difference, and social influences.
 
-In another project, I worked with a clinical collaborator at Boston Children's Hospital to analyze a large dataset of **lung, stomach, and throat microbiomes** of over 200 pediatric patients.
-We found that lung and stomach microbiomes are driven more by the individual person than the body site and that patients with swallowing dysfunction have more similar lung and throat microbiomes than those who swallow normally.
-This has exciting clinical implications for how we treat kids with these disorders, and you can read more about it in [our paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216453) or my [behind the paper blog post](https://go.nature.com/30rx4VZ).
+•	Add neurological methods (e.g., eye-tracker) to measure users’ behavioural data, and combine them with traditional psychological measurements.
 
-Throughout my PhD, I also worked on the [Underworlds](http://underworlds.mit.edu/) project, **mining sewage for useful public health information**.
-Among other projects, I worked with a Master's student to look at antibiotics and antibiotic resistance genes in sewage across multiple countries, you can read more about what we found in [his preprint](https://www.biorxiv.org/content/10.1101/562496v1).
+My doctoral research investigates the history and development of digital agency and digital anthropomorphism, and how these concepts have evolved. Through a systematic review of the literature, I'm organizing the types of digital agents and human-robot interactions, and summarizing their antecedents, development, and synergy. Using bibliometric analysis, I am integrating the development of digital anthropomorphism with the fields of consumer psychology and marketing, providing insights into the cross-disciplinary field of the impact of digital technological interventions on consumer psychology, and explaining the development and changes in human-computer interaction from a multidisciplinary perspective.
 
-Along the way, I've developed an interest in **tool development**. 
-I've contributed significantly to a method to [correct for batch effects](https://doi.org/10.1371/journal.pcbi.1006102) across case-control microbiome studies, the re-implementation of [distribution-based OTU clustering](https://doi.org/10.1371/journal.pone.0176335), and our in-house [16S processing pipeline](http://github.com/thomasgurry/amplicon_sequencing_pipeline).
-I also implemented some of the software developed by the Alm lab into [QIIME 2](https://qiime2.org/), a suite of tools broadly used in microbiome research: our [percentile normalization method](https://github.com/cduvallet/q2-perc-norm) and [Sarah Preheim](https://engineering.jhu.edu/ehe/faculty/sarah-preheim/)'s [distribution-based OTU clustering](https://github.com/cduvallet/q2-dbotu) method.
+The term **"digital agency"** refers to the ability of machines or digital technologies to perform tasks and communicate in a manner that appears to be intelligent and autonomous. The digital agency has evolved over the years, with early examples being chatbots, digital pets, and virtual assistants. These early examples were limited in their functionality and often relied on pre-programmed responses. However, with advances in machine learning and artificial intelligence, digital agents have become more sophisticated. They can now perform a wide range of tasks, from answering simple questions to diagnosing medical conditions.
+
+One of the key aspects of a digital agency is **digital anthropomorphism**, which refers to the design of digital agents to resemble or mimic human-like characteristics. This can include the use of human-like voices, facial expressions, and gestures. Digital anthropomorphism has become increasingly prevalent in recent years, with the rise of virtual assistants such as Siri and Alexa. While digital anthropomorphism can enhance the user experience by making the digital agent appear more human-like, it can also lead to unrealistic expectations, uncomfortable, and disappointment when the agent fails to perform as expected, such as the uncanny effect.
+
+Furthermore, I'm exploring the psychological interaction mechanisms in three main dimensions: **digital agents, individual differences, and social influences**. By examining these dimensions, I hope to better understand how digital agents affect human behaviour and how individual differences and social influences play a role in this process. In addition, we obtain a more objective biometric measurement by collecting eye movement and galvanic skin response data, which helps us better understand humans' emotional arousal and concerns.
+
+One of the key questions I'm investigating is whether differences in digital agency affect how people interact with institutions. For example, do people interact differently with a customer service chatbot than with a virtual assistant in healthcare and sports exercise? By understanding these differences, we can improve the design and implementation of digital agents to better meet the needs of different contexts and scenarios.
