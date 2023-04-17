@@ -5,7 +5,6 @@ permalink: /grants&fundings/
 author_profile: true
 ---
 
-# Grants&Fundings
 •	Oct. 2018. **“Loughborough University Excellence Scholarship”** for master’s degree (£4,460)
 
 •	Oct. 2020. **“Loughborough University Full Studentship”** for Ph.D. research (Full-tuition fee, £70,000)
