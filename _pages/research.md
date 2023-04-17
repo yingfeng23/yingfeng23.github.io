@@ -36,6 +36,7 @@ Oct. 2021-Dec. 2022. Research Assistant at Dr. Jie Meng’s **‘Social Distanci
 •	Paper writing (submitted two papers as the first author, one has published, see [publications](/publications/) page).
 
 
+
 May 2022-Jan. 2023. Research Assistant at Dr. Kun Fu’s **‘Patent Renewal and Corporate Geographic Location’** research project, Institute for Innovation and Entrepreneurship, Loughborough University London. In charge of:
 
 •	Spatial clustering analysis of patent and inventor data from the United States Patent and Trademark Office (USPTO) using the DBSCAN method with ArcGIS Pro (approximately 50,000 data).
