@@ -17,9 +17,9 @@ _Journal of Interactive Marketing_. doi: [10.1177/10949968231156530]([https://do
 ## Conference papers
 
 •**Ying Feng**, Jie Meng, "Impact of Digital Agent’s Types and Humanoid Features on Para-social Relationship: Evidence of Online Gym Exercises,"
-Poster presentation,_The European Marketing Academy (EMAC) Annual Conference_, May 23-26, 2023, Odense, Denmark (Leading conference in marketing)
+Poster presentation, _The European Marketing Academy (EMAC) Annual Conference_, May 23-26, 2023, Odense, Denmark (Leading conference in marketing)
 
 •Jie Meng, **Ying Feng**, Kate Mingjie Ji, Brian King, “How Does Distance Matter to Third-place Experience? Role of Seat Arrangements and Social Distancing Signages,”
-Oral presentation_Global Marketing Conference (GMC)_, July 20-23, 2023, Seoul, South Korea (Leading conference in marketing)
+Oral presentation, _Global Marketing Conference (GMC)_, July 20-23, 2023, Seoul, South Korea (Leading conference in marketing)
 
 •	**Ying Feng**, Jie Meng, “Choosing the Perfect Coach: Real Person, Avatar, Humanoid Robot or Robot Dog? Empirical Studies of Para-social Relationship Formation in Exercise Experience,” in person competitive paper presentation, _AMA Summer Academic Conference_, Aug 4-6, 2023, San Francisco, California, USA (Top conference in marketing)
