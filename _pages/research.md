@@ -29,7 +29,7 @@ One of the key questions I'm investigating is whether differences in digital age
 
 
 # Research Assistant Experiences
-Oct. 2021-Dec. 2022. Research Assistant at Dr. Jie Meng’s **‘Social Distancing in Servicescape’** collaborative research project (cooperate with Professor Brain King at Texas A&M University and Dr. Mingjie Ji at Oxford Brookes University). In charge of:
+Oct. 2021-Dec. 2022. Research Assistant at <a href="https://www.lborolondon.ac.uk/about/staff/dr-jie-meng/">Dr. Jie Meng</a>’s **‘Social Distancing in Servicescape’** collaborative research project (cooperate with <a href="https://rpts.tamu.edu/people/king-dr-brian/">Professor Brain King</a> at Texas A&M University and <a href="https://www.brookes.ac.uk/profiles/staff/kate-mingjie-ji/">Dr. Mingjie Ji</a> at Oxford Brookes University). In charge of:
 
 •	Conceptual model building and data analysis (SEM) using Amos and SPSS. 
 
@@ -37,7 +37,7 @@ Oct. 2021-Dec. 2022. Research Assistant at Dr. Jie Meng’s **‘Social Distanci
 
 
 
-May 2022-Jan. 2023. Research Assistant at Dr. Kun Fu’s **‘Patent Renewal and Corporate Geographic Location’** research project, Institute for Innovation and Entrepreneurship, Loughborough University London. In charge of:
+May 2022-Jan. 2023. Research Assistant at <a href="https://www.lborolondon.ac.uk/about/staff/kun-fu/">Dr. Kun Fu</a>'s **‘Patent Renewal and Corporate Geographic Location’** research project, Institute for Innovation and Entrepreneurship, Loughborough University London. In charge of:
 
 •	Spatial clustering analysis of patent and inventor data from the United States Patent and Trademark Office (USPTO) using the DBSCAN method with ArcGIS Pro (approximately 50,000 data).
 
