@@ -14,16 +14,16 @@ redirect_from:
 
 Research Topic: Experiementalisation and theorisation of digital agency in digital communication.
 
-First Supervisor: Dr. Jie Meng, Deputy Director of Doctoral Programme (DDDP); Programme Director (PD) of Digital Marketing
+First Supervisor: <a href="https://www.lborolondon.ac.uk/about/staff/dr-jie-meng/">Dr. Jie Meng</a>, Deputy Director of Doctoral Programme (DDDP); Programme Director (PD) of Digital Marketing
 
-Second Supervisor: Dr. Xiyu Shi, Programme Director for MSc Digital Innovation Management
+Second Supervisor: <a href= "https://www.lborolondon.ac.uk/about/staff/xiyu-shi/">Dr. Xiyu Shi</a>, Programme Director for MSc Digital Innovation Management
 
 
 **Loughborough University, Insitute for Sport Business**, MRes in Sport Business (2018-2019) 
 
 Research Topic: London Cycling Market Analysis: The influence of Age and Cycling Purpose on Environment Attitudes.
 
-Supervisor: Dr Roy Meriton
+Supervisor: <a href="https://www.lborolondon.ac.uk/about/staff/dr-roy-meriton/">Dr Roy Meriton</a>
 
 GPA: Distinction
 
@@ -39,7 +39,7 @@ GPA: Distinction
 
 **University of Cambridge, Department of Computer Science and Technology**, Visiting PhD student (from May 2023)
 
-Supervisor:Professor Hatice Gunes
+Supervisor:<a href="https://www.cst.cam.ac.uk/people/hg410">Professor Hatice Gunes</a>
 
 Research Topic: Humanizing Technology: Exploring the Intersection of Robotic Anthropomorphism, Affective Intelligence, and Consumer Well-Being.
 
