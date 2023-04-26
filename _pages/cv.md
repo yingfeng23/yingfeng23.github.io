@@ -39,7 +39,7 @@ GPA: Distinction
 
 **University of Cambridge, Department of Computer Science and Technology**, Visiting PhD student (from May 2023)
 
-Supervisor:<a href="https://www.cst.cam.ac.uk/people/hg410">Professor Hatice Gunes</a>
+Supervisor: <a href="https://www.cst.cam.ac.uk/people/hg410">Professor Hatice Gunes</a>
 
 Research Topic: Humanizing Technology: Exploring the Intersection of Robotic Anthropomorphism, Affective Intelligence, and Consumer Well-Being.
 
@@ -47,7 +47,7 @@ Research Topic: Humanizing Technology: Exploring the Intersection of Robotic Ant
 
 **Grenoble Ecole de Management, Department of Marketing**, Short Visiting (Sep.2022)
 
-Host: Dr Yan Meng
+Host: <a href="https://en.grenoble-em.com/directory/yan-meng">Dr Yan Meng</a>
 
 ***
 
