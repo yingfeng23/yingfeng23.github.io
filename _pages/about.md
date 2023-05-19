@@ -9,14 +9,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a diligent and determined third-year Digital Marketing Ph.D. student, studying for my doctoral degree at Institute for Digital Technologies at Loughborough University, London campus. My research interests cover digital anthropomorphism, human-machine interaction, consumer psychology, and behavioural research. 
+I am a diligent and determined third-year **Digital Marketing** Ph.D. student, studying for my doctoral degree at Institute for Digital Technologies at Loughborough University, London campus. My research interests cover  human-robot interaction, digital anthropomorphism, neuromarketing and communication. 
 
-Before Ph.D., I received my Master of Research (MRes) Degree in Sport Business with Distinction from the Institute for Sport Business at Loughborough University. Before that, I studies BSc Sport Ecnomics and Management at Beijing Sport University.
+Before Ph.D., I received my **Master of Research (MRes) Degree** in Sport Business with Distinction from the Institute for Sport Business at Loughborough University. 
+
+Before that, I studies **BSc Sport Ecnomics and Management** at Beijing Sport University.
 
 # Core Skills
-•	Behavioural Research; Consumer Psychology
+•	Behavioural Research; Consumer Psychology; Data Mining
 
-•	Quantitative/Statistical/Systematic Analysis   
+•	Quantitative/Statistical/Qualitative/Systematic Analysis   
 
 •	Publications in the Top 3% of Classics Journal 
 
