@@ -26,9 +26,9 @@ My research interests cover  human-robot interaction, digital anthropomorphism, 
 
 •	Grant and Funding Application                  
 
-•	Research Assistant (Strategic Management)
+•	Research Assistant (Strategic Management and Innovation)
 
-•	Teaching Assistant (MSc students) 
+•	Teaching Assistant (MSc students in Digital Marketing, Digital Innovation Management, and Sport Marketing) 
 
 •	Biometric Data Analysis (Eye-tracking/GSR)
 
