@@ -9,15 +9,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a diligent and determined third-year **Digital Marketing** Ph.D. student, studying for my doctoral degree at <a href= https://www.lborolondon.ac.uk/institutes/digital-technologies/>Institute for Digital Technologies</a>, at Loughborough University, London campus. 
+I am a diligent and determined third-year **Digital Marketing** Ph.D. student, studying for my doctoral degree at <a href= https://www.lborolondon.ac.uk/institutes/digital-technologies/>Institute for Digital Technologies</a>, at Loughborough University, London campus. Currently I am a visiting PhD student at the <a href="https://cambridge-afar.github.io/">AFAR lab</a>, Department of Computer Science and Technology, University of Cambridge.  
 
-Currently I am a visiting PhD student at the <a href="https://cambridge-afar.github.io/">AFAR lab</a>, Department of Computer Science and Technology, University of Cambridge.  
-
-My research interests cover  human-robot interaction, digital anthropomorphism, neuromarketing and communication. 
-
-Before Ph.D., I received my **Master of Research (MRes) Degree** in Sport Business with Distinction from the <a href="https://www.lborolondon.ac.uk/institutes/sport-business/">Institute for Sport Business</a>, at Loughborough University. 
+Before Ph.D., I received my **Master of Research (MRes) Sport Business** Degree with Distinction from the <a href="https://www.lborolondon.ac.uk/institutes/sport-business/">Institute for Sport Business</a>, at Loughborough University. 
 
 Before that, I studies **BSc Sport Ecnomics and Management** at Beijing Sport University.
+
+My research interests cover  human-robot interaction, digital anthropomorphism, neuromarketing and communication. 
 
 # Core Skills
 •	Behavioural Research; Consumer Psychology; Data Mining
