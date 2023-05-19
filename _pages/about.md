@@ -13,7 +13,7 @@ I am a diligent and determined third-year **Digital Marketing** Ph.D. student, s
 
 Before Ph.D., I received my **Master of Research (MRes) Sport Business** Degree with Distinction from the <a href="https://www.lborolondon.ac.uk/institutes/sport-business/">Institute for Sport Business</a>, at Loughborough University. 
 
-Before that, I studies **BSc Sport Ecnomics and Management** at Beijing Sport University.
+Before that, I studied **BSc Sport Ecnomics and Management** at Beijing Sport University.
 
 My research interests cover  human-robot interaction, digital anthropomorphism, neuromarketing and communication. 
 
