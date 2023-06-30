@@ -17,6 +17,8 @@ author_profile: true
 
 •	Mar. 2023. **“Institute Conference Fund”** from Institute for Digital Technologies. (£600)
 
+• Jun. 2023. **“Chinese Government Award for Outstanding Self-financed Students Abroad”** from China Scholarship Council. ($6000)
+
 
 
  
