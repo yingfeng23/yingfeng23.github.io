@@ -10,7 +10,7 @@ redirect_from:
 
 # Education
 
-**Loughborough University, Insitute for Digital Technologies**, PhD in Digital Marketing (Oct. 2020-now) 
+**Loughborough University, Insitute for Digital Technologies**, PhD in Digital Marketing (Oct. 2020-Oct. 2023) 
 
 Research Topic: Experiementalisation and theorisation of digital agency in digital communication.
 
@@ -37,7 +37,7 @@ GPA: Distinction
 
 # Visiting Experiences
 
-**University of Cambridge, Department of Computer Science and Technology**, Visiting PhD student (from May 2023)
+**University of Cambridge, Department of Computer Science and Technology**, Visiting PhD student (May 2023-Aug. 2023)
 
 Supervisor: <a href="https://www.cst.cam.ac.uk/people/hg410">Professor Hatice Gunes</a>
 
@@ -60,7 +60,9 @@ See [publications](/publications/) page.
 # Reviewer
 I serve as a peer-reviewer in my field.
 
-• **American Marketing Association** (AMA). 2023 Summer Academic Conference, Reviewer
+• **American Marketing Association** (AMA). 2023 AMA Summer Academic Conference, Reviewer
+
+• **American Marketing Association** (AMA). 2024 AMA Winter Academic Conference, Reviewer
 
 ***
 # Research Skills 
