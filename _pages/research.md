@@ -28,12 +28,12 @@ Furthermore, I'm exploring the psychological interaction mechanisms in three mai
 One of the key questions I'm investigating is whether differences in digital agency affect how people interact with institutions. For example, do people interact differently with a customer service chatbot than with a virtual assistant in healthcare and sports exercise? By understanding these differences, we can improve the design and implementation of digital agents to better meet the needs of different contexts and scenarios.
 
 
-# Research Assistant Experiences
+# Research Projects
 Oct. 2021-Dec. 2022. Research Assistant at <a href="https://www.lborolondon.ac.uk/about/staff/dr-jie-meng/">Dr. Jie Meng</a>’s **‘Social Distancing in Servicescape’** collaborative research project (cooperate with <a href="https://rpts.tamu.edu/people/king-dr-brian/">Professor Brain King</a> at Texas A&M University and <a href="https://www.brookes.ac.uk/profiles/staff/kate-mingjie-ji/">Dr. Mingjie Ji</a> at Oxford Brookes University). In charge of:
 
 •	Conceptual model building and data analysis (SEM) using Amos and SPSS. 
 
-•	Paper writing (submitted two papers as the first author).
+•	Paper writing 
 
 
 
@@ -41,7 +41,13 @@ May 2022-Jan. 2023. Research Assistant at <a href="https://www.lborolondon.ac.uk
 
 •	Spatial clustering analysis of patent and inventor data from the United States Patent and Trademark Office (USPTO) using the DBSCAN method with ArcGIS Pro (approximately 50,000 data).
 
-•	Methods section related to DBSCAN analysis writing (Submitted a paper as the third author). 
+•	Methods section related to DBSCAN analysis writing. 
 
+
+
+May 2023-Oct. 2023. Cooperate with <a href="https://www.brookes.ac.uk/profiles/staff/kate-mingjie-ji/">Dr. Mingjie Ji</a> at Oxford Brookes University)
+ , and <a href="https://fba.um.edu.mo/faculty/anthonywong/">Prof. Anthony Ip Kin Wong </a> on the **‘Social Capital and Social Distancing’** project. In charge of:
+
+• Scale sorting and Paper writing 
 
  
