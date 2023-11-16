@@ -10,7 +10,7 @@ redirect_from:
 
 # Education
 
-**Loughborough University, Insitute for Digital Technologies**, PhD in Digital Marketing (Oct. 2020-Oct. 2023) 
+**Loughborough University, Insitute for Digital Technologies**, PhD in Digital Marketing (Oct. 2020-now) 
 
 Research Topic: Experiementalisation and theorisation of digital agency in digital communication.
 
