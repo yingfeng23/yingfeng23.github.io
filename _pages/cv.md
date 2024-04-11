@@ -12,7 +12,7 @@ redirect_from:
 
 **Loughborough University, Insitute for Digital Technologies**, PhD in Digital Marketing (Oct. 2020-now) 
 
-Research Topic: Experiementalisation and theorisation of digital agency in digital communication.
+Research Topic: Unlocking the Power of Digital Agency: Conceptualisation, Causality and Synergy.
 
 First Supervisor: <a href="https://www.lborolondon.ac.uk/about/staff/dr-jie-meng/">Dr. Jie Meng</a>, Deputy Director of Doctoral Programme (DDDP); Programme Director (PD) of Digital Marketing
 
@@ -60,9 +60,9 @@ See [publications](/publications/) page.
 # Reviewer
 I serve as a peer-reviewer in my field.
 
-• **American Marketing Association** (AMA). 2023 AMA Summer Academic Conference, Reviewer
+• **American Marketing Association** (AMA). 2023/24 AMA Summer/Winter Academic Conference, Reviewer
 
-• **American Marketing Association** (AMA). 2024 AMA Winter Academic Conference, Reviewer
+• **Association for Consumer Research** (ACR). 2024 ACR Annual Conference, Reviewer
 
 ***
 # Research Skills 
@@ -73,15 +73,21 @@ I serve as a peer-reviewer in my field.
 
 ***
 # Certificates
-•	Dec. 2018. Certificate of Completion of Sport Agent Programme, Loughborough University
-
-•	Aug. 2021. Essential Teaching Skills Certificate, Loughborough University 
+•	Sep. 2023. "Fellowship of the Higher Education Academy", Advance HE
 
 •	Jan. 2022. “Advanced Google Analytics” Certificate
 
 •	Jan. 2022. “Google Analytics for Beginners” Certificate
 
 •	Jan. 2022. “Google Analytics Individual Qualification” Certificate
+
+•	Aug. 2021. Essential Teaching Skills Certificate, Loughborough University 
+
+•	Dec. 2018. Certificate of Completion of Sport Agent Programme, Loughborough University
+
+
+
+
 
 
 ***
@@ -100,7 +106,6 @@ I serve as a peer-reviewer in my field.
 
 •	2016-2018. **Network Administrator intern** at **Information Network Centre in Beijing Sport University**, responsible for daily campus network maintenance work.
 
-•	Nov. 2017-Jan. 2018. **Assistant Teacher** at **New Oriental Education & Technology Group Inc**., IELTS department, responsible for recording key contents of each lesson, contacting parents and getting feedback.
 
 ***
 
