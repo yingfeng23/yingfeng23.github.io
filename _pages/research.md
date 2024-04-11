@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 # PhD Research
-My PhD Research Topic: **Experiementalisation and theorisation of digital agency in digital communication**.
+My PhD Research Topic: **Unlocking the Power of Digital Agency: Conceptualisation, Causality and Synergy**.
 
 **Key Contributions:**
 
