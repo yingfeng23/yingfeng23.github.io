@@ -14,18 +14,18 @@ author_profile: true
 
 **Seminar Leader**, NBS-5122B Digital Makrketing (UG) (2023-2024 Semester 2)
 
-                    NBS-7025A Strategic Marketing Management (PG) (2023-2024 Semester 1)
+**Seminar Leader**, NBS-7025A Strategic Marketing Management (PG) (2023-2024 Semester 1)
+                    
 
 
 
 # Teaching Experience-Loughborough University
-**Module Tutor**, LLP129 Strategic Marketing Management (PG) (2022-2023 Semester 1) 
+**Module Tutor**, LLP129 Strategic Marketing Management (PG) (2021-2023 Semester 1) 
 
-                  LLP125 Design Practice in Digital Industries (PG) (2022-2023 Semester 1)
+**Module Tutor**, LLP125 Design Practice in Digital Industries (PG) (2021-2023 Semester 1)                
+**Guest Lecturer**, LLP123 Digital Technologies for Market Analysis (2021-2022 Semester 2)    
 
-**Teaching Assistant**, LLP123 Digital Technologies for Market Analysis (PG) (2020-2021 Semester 2)    
-
-                        LLP129 Strategic Marketing Management (PG) (2021-2022 Semester 1)   
+                          
 
 
 
