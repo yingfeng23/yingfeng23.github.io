@@ -12,7 +12,7 @@ author_profile: true
 
 **Supervisor**, NBS-7064Y Business Research Method (PG) (2023-2024)
 
-**Seminar Leader**, NBS-5122B Digital Makrketing (UG) (2023-2024 Semester 2)
+**Seminar Leader**, NBS-5122B Digital Marketing (UG) (2023-2024 Semester 2)
 
 **Seminar Leader**, NBS-7025A Strategic Marketing Management (PG) (2023-2024 Semester 1)
                     
