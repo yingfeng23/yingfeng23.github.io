@@ -14,7 +14,7 @@ A highlighted subset is listed below - these are papers I played a large role in
 
 
 ## Conference papers
-•**Ying Feng**, Jie Meng, “Exploring the Dimensions of Technological Anthropomorphism: Insights into Human-Agent Interaction and Consumer Behaviour,” _Association for Consumer Research Conference (ACR)_, 26-28 September 2024, Paris, France 
+•**Ying Feng**, Jie Meng, “Exploring the Dimensions of Technological Anthropomorphism: Insights into Human-Agent Interaction and Consumer Behaviour,” _Association for Consumer Research Conference (ACR)_, September 26-28, 2024, Paris, France 
 
 •**Ying Feng**, Jie Meng, "Impact of Digital Agent’s Types and Humanoid Features on Para-social Relationship: Evidence of Online Gym Exercises," _The European Marketing Academy (EMAC) Annual Conference_, May 23-26, 2023, Odense, Denmark 
 
