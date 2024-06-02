@@ -16,8 +16,8 @@ A highlighted subset is listed below - these are papers I played a large role in
 ## Conference papers
 •**Ying Feng**, Jie Meng, “Exploring the Dimensions of Technological Anthropomorphism: Insights into Human-Agent Interaction and Consumer Behaviour,” _Association for Consumer Research Conference (ACR)_, September 26-28, 2024, Paris, France 
 
-•**Ying Feng**, Jie Meng, "Impact of Digital Agent’s Types and Humanoid Features on Para-social Relationship: Evidence of Online Gym Exercises," _The European Marketing Academy (EMAC) Annual Conference_, May 23-26, 2023, Odense, Denmark 
+•	**Ying Feng**, Jie Meng, “Choosing the Perfect Coach: Real Person, Avatar, Humanoid Robot or Robot Dog? Empirical Studies of Para-social Relationship Formation in Exercise Experience,”_American Marketing Association (AMA) Summer Academic Conference_, Aug 4-6, 2023, San Francisco, California, USA 
 
 •Jie Meng, **Ying Feng**, Kate Mingjie Ji, Brian King, “How Does Distance Matter to Third-place Experience? Role of Seat Arrangements and Social Distancing Signages,”_Global Marketing Conference (GMC)_, July 20-23, 2023, Seoul, South Korea 
 
-•	**Ying Feng**, Jie Meng, “Choosing the Perfect Coach: Real Person, Avatar, Humanoid Robot or Robot Dog? Empirical Studies of Para-social Relationship Formation in Exercise Experience,”_American Marketing Association (AMA) Summer Academic Conference_, Aug 4-6, 2023, San Francisco, California, USA 
+•**Ying Feng**, Jie Meng, "Impact of Digital Agent’s Types and Humanoid Features on Para-social Relationship: Evidence of Online Gym Exercises," _The European Marketing Academy (EMAC) Annual Conference_, May 23-26, 2023, Odense, Denmark 
