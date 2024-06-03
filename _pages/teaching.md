@@ -10,7 +10,7 @@ author_profile: true
 
 **Module Leader**, NBS-7036X Buyer Behaviour and Interactive Marketing (PG) (2023-2024 Semester 3)
 
-**Supervisor**, NBS-7064Y Business Research Method (PG) (2023-2024)
+**Dissertation Supervisor**, NBS-7064Y Business Research Method (PG) (2023-2024)
 
 **Seminar Leader**, NBS-5122B Digital Marketing (UG) (2023-2024 Semester 2)
 
