@@ -4,7 +4,7 @@ title: "Grants&Fundings"
 permalink: /grants&fundings/
 author_profile: true
 ---
-• Jun. 2023. **“Chinese Government Award for Outstanding Self-financed Students Abroad”** from China Scholarship Council (The highest government award granted by the Chinese government to Chinese students overseas). ($6000)
+• Jun. 2023. **“Chinese Government Award for Outstanding Self-financed Students Abroad”** from China Scholarship Council (The highest government award granted by the Chinese government to Chinese students overseas, globally selects 650 young talents from different disciplines every year). ($6000)
 
 •	Mar.2023. **“Doctoral Researcher Support Fund”** from Loughborough Doctor College (£1,300)
 
