@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Marketing Lecturer at <a href="https://research-portal.uea.ac.uk/en/persons/ying-feng/">Norwich Business School</a>, Univerity of East Anglia, and have recently completed my Ph.D. in **Digital Marketing** at <a href="https://www.lborolondon.ac.uk/institutes/digital-technologies/">Institute for Digital Technologies</a>, at Loughborough University, London campus. 
+I am a Marketing Lecturer at <a href="https://research-portal.uea.ac.uk/en/persons/ying-feng/">Norwich Business School</a>, Univerity of East Anglia, and have recently completed my Ph.D. in **Digital Marketing and Technologies** at <a href="https://www.lborolondon.ac.uk/institutes/digital-technologies/">Institute for Digital Technologies</a>, at Loughborough University, London campus. 
 
 I was a visiting PhD student at the **<a href="https://cambridge-afar.github.io/">AFAR lab</a>**, Department of Computer Science and Technology, University of Cambridge.  
 
