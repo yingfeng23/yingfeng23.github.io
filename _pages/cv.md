@@ -37,7 +37,7 @@ GPA: Distinction
 
 # Visiting Experiences
 
-**University of Cambridge, Department of Computer Science and Technology**, Visiting PhD student (May 2023-Aug. 2023)
+**University of Cambridge, Department of Computer Science and Technology**, Visiting PhD student at <a href="https://cambridge-afar.github.io/">AFAR</a> Lab (May 2023-Aug. 2023)
 
 Supervisor: <a href="https://www.cst.cam.ac.uk/people/hg410">Professor Hatice Gunes</a>
 
