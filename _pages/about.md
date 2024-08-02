@@ -23,15 +23,11 @@ Before Ph.D., I received my **Master of Research (MRes) Sport Business** Degree 
 
 
 # Core Skills
-•	Behavioural Research; Consumer Behaviour; Data Mining
-
-•	Experiment Design/Quantitative/Statistical/Qualitative/Systematic Analysis   
+•	Behavioural Research; Experimental Design; Quantitative; Qualitative; SEM 
 
 •	Publications in the Top 3% of Classics Journal 
 
 •	Grant and Funding Application                  
-
-• Peer Reviewer
 
 •	Biometric Data Analysis (Eye-tracking/GSR)
 
