@@ -10,11 +10,11 @@ redirect_from:
 ---
 Welcome to my web page!
 
-I am a Marketing Lecturer (Assistant Professor) at <a href="https://research-portal.uea.ac.uk/en/persons/ying-feng/">Norwich Business School</a>, Univerity of East Anglia. 
+I am a **Marketing Lecturer (Assistant Professor)** at <a href="https://research-portal.uea.ac.uk/en/persons/ying-feng/">Norwich Business School</a>, Univerity of East Anglia. 
 
 My research interests cover  human-agent interaction, digital anthropomorphism, sport marketing, and consumer well-being. 
 
-I have completed my Ph.D. in **Digital Marketing and Technologies** at <a href="https://www.lborolondon.ac.uk/institutes/digital-technologies/">Institute for Digital Technologies</a>, at Loughborough University, London campus. 
+I have completed my **Ph.D. in Digital Marketing and Technologies** at <a href="https://www.lborolondon.ac.uk/institutes/digital-technologies/">Institute for Digital Technologies</a>, at Loughborough University, London campus. 
 
 I was a visiting PhD student at the **<a href="https://cambridge-afar.github.io/">AFAR lab</a>**, Department of Computer Science and Technology, University of Cambridge.  
 
