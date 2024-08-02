@@ -64,6 +64,8 @@ I serve as a peer-reviewer in my field.
 
 • **Association for Consumer Research** (ACR). 2024 ACR Annual Conference, Reviewer
 
+• **The Australian and New Zealand Marketing Academy** (ANZMAC). 2024 ANZMAC Annual Conference, Reviewer
+
 ***
 # Research Skills 
 •	Methods: Statistical Analysis (SEM, ANOVA/MANOVA, Regression Analysis), Semantic Analysis, Systematic Analysis (Bibliometric Analysis), Spatial Clustering Analysis (DBSCAN), Eye-tracking Analysis
