@@ -47,7 +47,7 @@ Research Topic: Humanizing Technology: Exploring the Intersection of Robotic Ant
 
 **Grenoble Ecole de Management, Department of Marketing**, Short Visiting (Sep.2022)
 
-Host: <a href="https://en.grenoble-em.com/directory/yan-meng">Dr Yan Meng</a>
+Host: <a href="https://sites.google.com/site/yanmengmkt">Dr Yan Meng</a>
 
 ***
 
