@@ -10,7 +10,7 @@ redirect_from:
 ---
 Welcome to my web page!
 
-I am a **Marketing Lecturer (Assistant Professor)** at <a href="https://research-portal.uea.ac.uk/en/persons/ying-feng/">Norwich Business School</a>, Univerity of East Anglia. 
+I am a **Lecturer (Assistant Professor) in Marketing** at <a href="https://research-portal.uea.ac.uk/en/persons/ying-feng/">Norwich Business School</a>, Univerity of East Anglia. 
 
 My research interests cover  human-agent interaction, digital anthropomorphism, sport marketing, and consumer well-being. 
 
