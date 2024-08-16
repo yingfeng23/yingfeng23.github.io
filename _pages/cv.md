@@ -5,12 +5,24 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+***
+
+# Work Experience
+**Lecturer (Assistant Professor) in Marketing**
+**University of East Anglia, Norwich Business School** (September 2023-Now)
+-Module Organiser, NBS-7036X Buyer Behaviour and Interactive Marketing (PG) 
+-Dissertation Supervisor, NBS-7064Y Business Research Method (PG)  
+-Co-teaching, NBS-5122B Digital Marketing (UG) 
+-Co-teaching, NBS-7025A Strategic Marketing Management (PG)
+
+
+***
 
 ***
 
 # Education
 
-**Loughborough University, Insitute for Digital Technologies**, PhD in Digital Marketing and Technologies (2020-2024) 
+**Loughborough University, Insitute for Digital Technologies**, PhD in Digital Marketing and Technologies (2020-2023) 
 
 Research Topic: Unlocking the Power of Digital Agency: Conceptualisation, Causality and Synergy.
 
