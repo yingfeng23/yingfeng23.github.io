@@ -25,25 +25,25 @@ redirect_from:
 
 **PhD in Digital Marketing and Technologies**, Loughborough University, Insitute for Digital Technologies (2020-2023) 
 
-Research Topic: Unlocking the Power of Digital Agency: Conceptualisation, Causality and Synergy.
+• Research Topic: Unlocking the Power of Digital Agency: Conceptualisation, Causality and Synergy.
 
-First Supervisor: <a href="https://www.lborolondon.ac.uk/about/staff/dr-jie-meng/">Dr. Jie Meng</a>, Deputy Director of Doctoral Programme (DDDP); Programme Director (PD) of Digital Marketing
+• First Supervisor: <a href="https://www.lborolondon.ac.uk/about/staff/dr-jie-meng/">Dr. Jie Meng</a>, Deputy Director of Doctoral Programme (DDDP); Programme Director (PD) of Digital Marketing
 
-Second Supervisor: <a href= "https://www.lborolondon.ac.uk/about/staff/xiyu-shi/">Dr. Xiyu Shi</a>, Programme Director for MSc Digital Innovation Management
+• Second Supervisor: <a href= "https://www.lborolondon.ac.uk/about/staff/xiyu-shi/">Dr. Xiyu Shi</a>, Programme Director for MSc Digital Innovation Management
 
 
 **Visiting PhD student at <a href="https://cambridge-afar.github.io/">AFAR</a> Lab**, University of Cambridge, Department of Computer Science and Technology (May 2023-Aug. 2023)
 
-Supervisor: <a href="https://www.cst.cam.ac.uk/people/hg410">Professor Hatice Gunes</a>
+• Supervisor: <a href="https://www.cst.cam.ac.uk/people/hg410">Professor Hatice Gunes</a>
 
 
 **MRes in Sport Business**, Loughborough University, Insitute for Sport Business (2018-2019) 
 
-Research Topic: London Cycling Market Analysis: The influence of Age and Cycling Purpose on Environment Attitudes.
+• Research Topic: London Cycling Market Analysis: The Influence of Age and Cycling Purpose on Environment Attitudes.
 
-Supervisor: <a href="https://scholar.google.co.uk/citations?user=zqAoJNgAAAAJ&hl=en">Dr Roy Meriton</a>
+• Supervisor: <a href="https://scholar.google.co.uk/citations?user=zqAoJNgAAAAJ&hl=en">Dr Roy Meriton</a>
 
-GPA: Distinction
+• GPA: Distinction
 
 
 **BSc in Sport Economics and Management**, Beijing Sport University, School of Management (2014-2018)  
