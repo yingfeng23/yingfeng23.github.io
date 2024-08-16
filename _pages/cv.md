@@ -18,8 +18,6 @@ redirect_from:
 
 ***
 
-***
-
 # Education
 
 **Loughborough University, Insitute for Digital Technologies**, PhD in Digital Marketing and Technologies (2020-2023) 
