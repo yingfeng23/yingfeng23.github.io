@@ -32,7 +32,7 @@ redirect_from:
 • Second Supervisor: <a href= "https://www.lborolondon.ac.uk/about/staff/xiyu-shi/">Dr. Xiyu Shi</a>, Programme Director for MSc Digital Innovation Management
 
 
-**Visiting PhD student at <a href="https://cambridge-afar.github.io/">AFAR</a> Lab**, University of Cambridge, Department of Computer Science and Technology (May 2023-Aug. 2023)
+**Visiting PhD student**, <a href="https://cambridge-afar.github.io/">AFAR</a> Lab, University of Cambridge, Department of Computer Science and Technology (May 2023-Aug. 2023)
 
 • Supervisor: <a href="https://www.cst.cam.ac.uk/people/hg410">Professor Hatice Gunes</a>
 
