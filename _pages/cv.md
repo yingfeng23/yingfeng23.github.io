@@ -25,13 +25,18 @@ redirect_from:
 
 # Education
 
-** PhD in Digital Marketing and Technologies**, Loughborough University, Insitute for Digital Technologies (2020-2023) 
+**PhD in Digital Marketing and Technologies**, Loughborough University, Insitute for Digital Technologies (2020-2023) 
 
 Research Topic: Unlocking the Power of Digital Agency: Conceptualisation, Causality and Synergy.
 
 First Supervisor: <a href="https://www.lborolondon.ac.uk/about/staff/dr-jie-meng/">Dr. Jie Meng</a>, Deputy Director of Doctoral Programme (DDDP); Programme Director (PD) of Digital Marketing
 
 Second Supervisor: <a href= "https://www.lborolondon.ac.uk/about/staff/xiyu-shi/">Dr. Xiyu Shi</a>, Programme Director for MSc Digital Innovation Management
+
+
+**Visiting PhD student at <a href="https://cambridge-afar.github.io/">AFAR</a> Lab**, University of Cambridge, Department of Computer Science and Technology (May 2023-Aug. 2023)
+
+Supervisor: <a href="https://www.cst.cam.ac.uk/people/hg410">Professor Hatice Gunes</a>
 
 
 **MRes in Sport Business**, Loughborough University, Insitute for Sport Business (2018-2019) 
@@ -49,22 +54,14 @@ GPA: Distinction
 ***
 
 
+# Other Visiting Experiences
 
-# Visiting Experiences
-
-**Visiting PhD student at <a href="https://cambridge-afar.github.io/">AFAR</a> Lab**, University of Cambridge, Department of Computer Science and Technology (May 2023-Aug. 2023)
-
-Supervisor: <a href="https://www.cst.cam.ac.uk/people/hg410">Professor Hatice Gunes</a>
-
-Research Topic: Humanizing Technology: Exploring the Intersection of Robotic Anthropomorphism, Affective Intelligence, and Consumer Well-Being.
-
-
-
-**Grenoble Ecole de Management, Department of Marketing**, Short Visiting (Sep.2022)
+**Short Visiting**, Grenoble Ecole de Management, Department of Marketing  (Sep.2022)
 
 Host: <a href="https://sites.google.com/site/yanmengmkt">Dr Yan Meng</a>
 
 ***
+
 
 # Publications
 
