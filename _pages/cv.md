@@ -71,7 +71,9 @@ See [publications](/publications/) page.
 
 ***
 
-# Reviewer
+# Interests and activities
+I am a Fellow of the Higher Education Academy(FHEA), a member of the British Academy Early Career Researcher Network (ECRN), a member of the American Marketing Association (AMA), and a member of the Association for Consumer Research (ACR). 
+
 I serve as a peer-reviewer in my field.
 
 • **American Marketing Association** (AMA). 2023/24 AMA Summer/Winter Academic Conference, Reviewer
@@ -89,8 +91,6 @@ I serve as a peer-reviewer in my field.
 
 ***
 # Certificates
-•	Sep. 2023. "Fellowship of the Higher Education Academy", Advance HE
-
 •	Jan. 2022. “Advanced Google Analytics” Certificate
 
 •	Jan. 2022. “Google Analytics for Beginners” Certificate
