@@ -8,7 +8,7 @@ redirect_from:
 ***
 
 # Work Experience
-**Lecturer (Assistant Professor) in Marketing**, University of East Anglia, Norwich Business School (September 2023-Now)
+**Lecturer (Assistant Professor) in Marketing**, University of East Anglia, Norwich Business School (October 2023-Now)
 
 • Module Organiser, NBS-7036X Buyer Behaviour and Interactive Marketing (PG) 
 
