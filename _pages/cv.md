@@ -37,7 +37,7 @@ Second Supervisor: <a href= "https://www.lborolondon.ac.uk/about/staff/xiyu-shi/
 
 Research Topic: London Cycling Market Analysis: The influence of Age and Cycling Purpose on Environment Attitudes.
 
-Supervisor: <a href="https://www.lborolondon.ac.uk/about/staff/dr-roy-meriton/">Dr Roy Meriton</a>
+Supervisor: <a href="https://scholar.google.co.uk/citations?user=zqAoJNgAAAAJ&hl=en">Dr Roy Meriton</a>
 
 GPA: Distinction
 
