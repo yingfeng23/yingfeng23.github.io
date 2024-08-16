@@ -25,7 +25,7 @@ redirect_from:
 
 # Education
 
-**Loughborough University, Insitute for Digital Technologies**, PhD in Digital Marketing and Technologies (2020-2023) 
+** PhD in Digital Marketing and Technologies**, Loughborough University, Insitute for Digital Technologies (2020-2023) 
 
 Research Topic: Unlocking the Power of Digital Agency: Conceptualisation, Causality and Synergy.
 
@@ -34,7 +34,7 @@ First Supervisor: <a href="https://www.lborolondon.ac.uk/about/staff/dr-jie-meng
 Second Supervisor: <a href= "https://www.lborolondon.ac.uk/about/staff/xiyu-shi/">Dr. Xiyu Shi</a>, Programme Director for MSc Digital Innovation Management
 
 
-**Loughborough University, Insitute for Sport Business**, MRes in Sport Business (2018-2019) 
+**MRes in Sport Business**, Loughborough University, Insitute for Sport Business (2018-2019) 
 
 Research Topic: London Cycling Market Analysis: The influence of Age and Cycling Purpose on Environment Attitudes.
 
@@ -43,7 +43,7 @@ Supervisor: <a href="https://scholar.google.co.uk/citations?user=zqAoJNgAAAAJ&hl
 GPA: Distinction
 
 
-**Beijing Sport University, School of Management**, BSc in Sport Ecnomics and Management (2014-2018)  
+**BSc in Sport Economics and Management**, Beijing Sport University, School of Management (2014-2018)  
 
 
 ***
@@ -52,7 +52,7 @@ GPA: Distinction
 
 # Visiting Experiences
 
-**University of Cambridge, Department of Computer Science and Technology**, Visiting PhD student at <a href="https://cambridge-afar.github.io/">AFAR</a> Lab (May 2023-Aug. 2023)
+**Visiting PhD student at <a href="https://cambridge-afar.github.io/">AFAR</a> Lab**, University of Cambridge, Department of Computer Science and Technology (May 2023-Aug. 2023)
 
 Supervisor: <a href="https://www.cst.cam.ac.uk/people/hg410">Professor Hatice Gunes</a>
 
