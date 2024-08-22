@@ -37,7 +37,8 @@ Oct. 2021-Dec. 2022. Research Assistant at <a href="https://www.lborolondon.ac.u
 
 
 
-May 2022-Jan. 2023. Research Assistant at <a href="https://www.lborolondon.ac.uk/about/staff/kun-fu/">Dr. Kun Fu</a>, and <a href="https://www.kent.edu/business/kun-liu-phd>Dr. Kun Liu</a>'s **‘Patent Renewal and Corporate Geographic Location’** research project, Institute for Innovation and Entrepreneurship, Loughborough University London. In charge of:
+May 2022-Jan. 2023. Research Assistant at <a href="https://www.lborolondon.ac.uk/about/staff/kun-fu/">Dr. Kun Fu</a> at 
+, <a href="https://www.kent.edu/business/kun-liu-phd/">Dr. Kun Liu</a> 's **‘Patent Renewal and Corporate Geographic Location’** research project, Institute for Innovation and Entrepreneurship, Loughborough University London. In charge of:
 
 •	Spatial clustering analysis of patent and inventor data from the United States Patent and Trademark Office (USPTO) using the DBSCAN method with ArcGIS Pro (approximately 50,000 data).
 
@@ -45,7 +46,7 @@ May 2022-Jan. 2023. Research Assistant at <a href="https://www.lborolondon.ac.uk
 
 
 
-May 2023-Oct. 2023. Cooperate with <a href="https://www.brookes.ac.uk/profiles/staff/kate-mingjie-ji/">Dr. Mingjie Ji</a> at Oxford Brookes University)
+May 2023-Oct. 2023. Cooperate with <a href="https://www.brookes.ac.uk/profiles/staff/kate-mingjie-ji/">Dr. Mingjie Ji</a> 
  , and <a href="https://fba.um.edu.mo/faculty/anthonywong/">Prof. Anthony Ip Kin Wong </a> on the **‘Social Capital and Social Distancing’** project. In charge of:
 
 • Scale sorting and paper writing 
