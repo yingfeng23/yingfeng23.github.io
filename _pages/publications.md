@@ -16,11 +16,15 @@ A highlighted subset is listed below - these are papers I played a large role in
         
         
         
+        
+        
         ](https://doi.org/10.1177/10949968231156530
         
         
         
-        )  (ABS 3, IF:11.8, SSCI, Q1)
+        
+        
+        )  (ABS 3, IF:11.8, SSCI, ABDC: A, JCR: Q1, 5/203 in Marketing)
 
 
 ## Conference papers
