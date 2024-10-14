@@ -8,7 +8,7 @@ redirect_from:
 ***
 
 # Work Experience
-**Lecturer (Assistant Professor) in Marketing**, University of East Anglia, Norwich Business School (October 2023-Now)
+**Lecturer (Assistant Professor) in Marketing**, University of East Anglia, Norwich Business School (October 2023-October 2024)
 
 
 
