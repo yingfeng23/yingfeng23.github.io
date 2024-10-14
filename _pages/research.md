@@ -21,34 +21,11 @@ My doctoral research investigates the history and development of digital agency 
 
 The term **"digital agency"** refers to the ability of machines or digital technologies to perform tasks and communicate in a manner that appears to be intelligent and autonomous. The digital agency has evolved over the years, with early examples being chatbots, digital pets, and virtual assistants. These early examples were limited in their functionality and often relied on pre-programmed responses. However, with advances in machine learning and artificial intelligence, digital agents have become more sophisticated. They can now perform a wide range of tasks, from answering simple questions to diagnosing medical conditions.
 
-One of the key aspects of a digital agency is **digital anthropomorphism**（See <a href="https://www.lborolondon.ac.uk/research/digital-technologies/current-research/anthropomorphistic-digital-agencys-human-related-affection">Loughborough Research Project</a>）, which refers to the design of digital agents to resemble or mimic human-like characteristics. This can include the use of human-like voices, facial expressions, and gestures. Digital anthropomorphism has become increasingly prevalent in recent years, with the rise of virtual assistants such as Siri and Alexa. While digital anthropomorphism can enhance the user experience by making the digital agent appear more human-like, it can also lead to unrealistic expectations, uncomfortable, and disappointment when the agent fails to perform as expected, such as the uncanny effect.
+One of the key aspects of a digital agency is **digital anthropomorphism**, which refers to the design of digital agents to resemble or mimic human-like characteristics. This can include the use of human-like voices, facial expressions, and gestures. Digital anthropomorphism has become increasingly prevalent in recent years, with the rise of virtual assistants such as Siri and Alexa. While digital anthropomorphism can enhance the user experience by making the digital agent appear more human-like, it can also lead to unrealistic expectations, uncomfortable, and disappointment when the agent fails to perform as expected, such as the uncanny effect.
 
 Furthermore, I'm exploring the psychological interaction mechanisms in three main dimensions: **digital agents, individual differences, and social influences**. By examining these dimensions, I hope to better understand how digital agents affect human behaviour and how individual differences and social influences play a role in this process. In addition, we obtain a more objective biometric measurement by collecting eye movement and galvanic skin response data, which helps us better understand humans' emotional arousal and concerns.
 
 One of the key questions I'm investigating is whether differences in digital agency affect how people interact with institutions. For example, do people interact differently with a customer service chatbot than with a virtual assistant in healthcare and sports exercise? By understanding these differences, we can improve the design and implementation of digital agents to better meet the needs of different contexts and scenarios.
 
-
-# Research Projects
-Oct. 2021-Dec. 2022. Research Assistant at <a href="https://www.lborolondon.ac.uk/about/staff/dr-jie-meng/">Dr. Jie Meng</a>’s **‘Social Distancing in Servicescape’** collaborative research project (cooperate with <a href="https://rpts.tamu.edu/people/king-dr-brian/">Professor Brain King</a> at Texas A&M University and <a href="https://www.brookes.ac.uk/profiles/staff/kate-mingjie-ji/">Dr. Mingjie Ji</a> at Oxford Brookes University). In charge of:
-
-•	Conceptual model building and data analysis (SEM) using Amos and SPSS. 
-
-•	Paper writing 
-
-
-
-May 2022-Jan. 2023. Research Assistant at <a href="https://www.lborolondon.ac.uk/about/staff/kun-fu/">Dr. Kun Fu</a> at 
-, <a href="https://www.kent.edu/business/kun-liu-phd/">Dr. Kun Liu</a> 's **‘Patent Renewal and Corporate Geographic Location’** research project, Institute for Innovation and Entrepreneurship, Loughborough University London. In charge of:
-
-•	Spatial clustering analysis of patent and inventor data from the United States Patent and Trademark Office (USPTO) using the DBSCAN method with ArcGIS Pro (approximately 50,000 data).
-
-•	Methods section related to DBSCAN analysis writing. 
-
-
-
-May 2023-Oct. 2023. Cooperate with <a href="https://www.brookes.ac.uk/profiles/staff/kate-mingjie-ji/">Dr. Mingjie Ji</a> 
- , and <a href="https://fba.um.edu.mo/faculty/anthonywong/">Prof. Anthony Ip Kin Wong </a> on the **‘Social Capital and Social Distancing’** project. In charge of:
-
-• Scale sorting and paper writing 
 
  
