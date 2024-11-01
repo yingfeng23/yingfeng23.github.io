@@ -8,6 +8,8 @@ redirect_from:
 ***
 
 # Work Experience
+**Lecturer (Assistant Professor) in Marketing**, University of Southampton, Southampton Business School, Department of Digital and Data Driven Marketing (November 2024-Now)
+
 **Lecturer (Assistant Professor) in Marketing**, University of East Anglia, Norwich Business School (October 2023-October 2024)
 
 
