@@ -32,5 +32,5 @@ main:
   - title: "Grants&Fundings"
     url: /grants&fundings/
     
-#  - title: "Road trip"
-#    url: /travel/
+  - title: "Activities"
+    url: /activities/
