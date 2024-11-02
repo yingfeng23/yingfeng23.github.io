@@ -32,7 +32,7 @@ redirect_from:
 • Supervisor: <a href="https://www.cst.cam.ac.uk/people/hg410">Professor Hatice Gunes</a>
 
 
-**MRes in Sport Business**, Loughborough University, Insitute for Sport Business (2018-2019) 
+**MRes in Sport Business**, Loughborough University, Insitute for Sport Business (2018-2019) (**Best university in the world for sports-related subjects' title for eighth consecutive year**)
 
 • Research Topic: London Cycling Market Analysis: The Influence of Age and Cycling Purpose on Environment Attitudes.
 
@@ -41,7 +41,7 @@ redirect_from:
 • GPA: Distinction
 
 
-**BSc in Sport Economics and Management**, Beijing Sport University, School of Management (2014-2018)  
+**BSc in Sport Economics and Management**, Beijing Sport University, School of Management (2014-2018) (**Best sport-related subjects' universities in China**) 
 
 
 ***
