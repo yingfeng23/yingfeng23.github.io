@@ -22,13 +22,8 @@ Before Ph.D., I received my **Master of Research (MRes) Sport Business** Degree 
 
 
 
-# Latest publications
-•**Ying Feng**, Jie Meng, Jun Hwa (Jacky) Cheah (2024), "From Virtual Trainers to Companions? Examining How Digital Agency Types, Anthropomorphism, and Support Shape Para-social Relationships in Online Fitness," _Psychology & Marketing_, Forthcoming 2024.  https://doi.org/10.1002/mar.22154
-        
-        
-        
-        
-(ABS 3, ABDC: A, JCR: Q1, IF:8.9, 16/249 in Applied Psychology (2024))
+#Latest publications
+#•**Ying Feng**, Jie Meng, Jun Hwa (Jacky) Cheah (2024), "From Virtual Trainers to Companions? Examining How Digital Agency Types, Anthropomorphism, and Support Shape Para-social Relationships in Online Fitness," _Psychology & Marketing_, Forthcoming 2024.  https://doi.org/10.1002/mar.22154 (ABS 3, ABDC: A, JCR: Q1, IF:8.9, 16/249 in Applied Psychology (2024))
 
 
 
