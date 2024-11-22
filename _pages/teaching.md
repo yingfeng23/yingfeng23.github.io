@@ -8,6 +8,7 @@ author_profile: true
 ***
 # University of Southampton
 **Lecturer**, MANG6336 Customer Insight (PG) (2024-2025 Semester 1)
+
 **Module Tutor**, MANG1015 Introduction to Marketing (UG) (2024-2025 Semester 1)
 
 
