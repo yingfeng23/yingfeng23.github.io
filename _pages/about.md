@@ -10,7 +10,7 @@ redirect_from:
 ---
 Welcome to my web page!
 
-I am a **Lecturer (Assistant Professor) in Marketing** at the <a href="https://www.southampton.ac.uk/about/faculties-schools-departments/southampton-business-school/department-of-digital-and-data-driven-marketing"> Department of Digital and Data Driven Marketing</a>, Southampton Business School, University of Southampton. My research interests cover digital anthropomorphism, service marketing, sport marketing, and consumer well-being. 
+I am a **Lecturer (Assistant Professor) in Marketing** at the <a href="https://www.southampton.ac.uk/people/6679dt/doctor-ying-feng#about/"> Department of Digital and Data Driven Marketing</a>, Southampton Business School, University of Southampton. My research interests cover digital anthropomorphism, service marketing, sport marketing, and consumer well-being. 
 
 Before joining Southampton, I served as a Lecturer (Assistant Professor) in Marketing at Norwich Business School, University of East Anglia. 
 
