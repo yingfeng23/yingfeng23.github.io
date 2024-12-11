@@ -10,7 +10,7 @@ redirect_from:
 ---
 Welcome to my web page!
 
-I am a **Lecturer (Assistant Professor) in Marketing** at the <a href="https://www.southampton.ac.uk/people/6679dt/doctor-ying-feng#about/"> Department of Digital and Data Driven Marketing</a>, Southampton Business School, University of Southampton. My research interests cover digital anthropomorphism, service marketing, sport marketing, and consumer well-being. 
+I am a **Lecturer (Assistant Professor) in Marketing** at the <a href="https://www.southampton.ac.uk/people/6679dt/doctor-ying-feng#about/"> Department of Digital and Data Driven Marketing</a>, Southampton Business School, University of Southampton. My research interests cover technology innovation, human-machine interaction, service marketing, sport marketing, and consumer well-being. 
 
 Before joining Southampton, I served as a Lecturer (Assistant Professor) in Marketing at Norwich Business School, University of East Anglia. 
 
@@ -23,10 +23,6 @@ Before Ph.D., I received my **Master of Research (MRes) Sport Business** Degree 
 
 # Lastest Publications
 •**Ying Feng***, Jie Meng, Jun Hwa (Jacky) Cheah (2024), ["From Virtual Trainers to Companions? Examining How Digital Agency Types, Anthropomorphism, and Support Shape Para-social Relationships in Online Fitness,"](https://doi.org/10.1002/mar.22154) Psychology & Marketing, Forthcoming 2024. https://doi.org/10.1002/mar.22154
-        
-        
-        
-        
          
 •**Ying Feng***, Jie Meng (2024), “Exploring the Dimensions of Technological Anthropomorphism: Insights into Human-Agent Interaction and Consumer Behaviour,” Association for Consumer Research Conference (ACR), September 26-29, 2024, Paris, France
 
