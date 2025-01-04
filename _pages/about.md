@@ -14,7 +14,7 @@ I am a **Lecturer (Assistant Professor) in Marketing** at the <a href="https://w
 
 Before joining Southampton, I served as a Lecturer (Assistant Professor) in Marketing at Norwich Business School, University of East Anglia. 
 
-I have completed my **Ph.D. in Digital Marketing and Technologies** at <a href="https://www.lborolondon.ac.uk/institutes/digital-technologies/">Institute for Digital Technologies</a>, at Loughborough University, London campus. 
+I have completed my **Ph.D. in Digital Technologies** at <a href="https://www.lborolondon.ac.uk/institutes/digital-technologies/">Institute for Digital Technologies</a>, at Loughborough University, London campus. 
 
 I was a visiting PhD student at the **<a href="https://cambridge-afar.github.io/">AFAR lab</a>**, Department of Computer Science and Technology, University of Cambridge.  
 
