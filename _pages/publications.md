@@ -20,12 +20,12 @@ A highlighted subset is listed below - these are papers I played a large role in
 ## Conference papers
 •**Ying Feng**, Jun Hwa (Jacky) Cheah*, "Servitization of AI in Consumer Markets: Addressing Emotional Needs in Digital Fitness," _2025 Global Marketing Conference (GMC)_, July 24-27, 2025, Hong Kong, China
 
-•**Ying Feng**, Jun Hwa (Jacky) Cheah*, "Bridging Emotional Gaps: The Role of Co-presence and Enjoyment in AI-Driven Fitness Services," _The European Marketing Academy (EMAC) Annual Conference_, May 27-30, 2025, Pozuelo (Madrid), Spain 
+•**Ying Feng**, Jun Hwa (Jacky) Cheah*, "Bridging Emotional Gaps: The Role of Co-presence and Enjoyment in AI-Driven Fitness Services," _2025 The European Marketing Academy (EMAC) Annual Conference_, May 27-30, 2025, Pozuelo (Madrid), Spain 
 
-•**Ying Feng***, Jie Meng, “Exploring the Dimensions of Technological Anthropomorphism: Insights into Human-Agent Interaction and Consumer Behaviour,” _Association for Consumer Research Conference (ACR)_, September 26-29, 2024, Paris, France 
+•**Ying Feng***, Jie Meng, “Exploring the Dimensions of Technological Anthropomorphism: Insights into Human-Agent Interaction and Consumer Behaviour,” _2024 Association for Consumer Research Conference (ACR)_, September 26-29, 2024, Paris, France 
 
-•**Ying Feng***, Jie Meng, “Choosing the Perfect Coach: Real Person, Avatar, Humanoid Robot or Robot Dog? Empirical Studies of Para-social Relationship Formation in Exercise Experience,”_American Marketing Association (AMA) Summer Academic Conference_, Aug 4-6, 2023, San Francisco, California, USA 
+•**Ying Feng***, Jie Meng, “Choosing the Perfect Coach: Real Person, Avatar, Humanoid Robot or Robot Dog? Empirical Studies of Para-social Relationship Formation in Exercise Experience,”_2023 American Marketing Association (AMA) Summer Academic Conference_, Aug 4-6, 2023, San Francisco, California, USA 
 
 •Jie Meng*, **Ying Feng**, Kate Mingjie Ji, Brian King, “How Does Distance Matter to Third-place Experience? Role of Seat Arrangements and Social Distancing Signages,”_2023 Global Marketing Conference (GMC)_, July 20-23, 2023, Seoul, South Korea 
 
-•**Ying Feng***, Jie Meng, "Impact of Digital Agent’s Types and Humanoid Features on Para-social Relationship: Evidence of Online Gym Exercises," _The European Marketing Academy (EMAC) Annual Conference_, May 23-26, 2023, Odense, Denmark 
+•**Ying Feng***, Jie Meng, "Impact of Digital Agent’s Types and Humanoid Features on Para-social Relationship: Evidence of Online Gym Exercises," _2023 The European Marketing Academy (EMAC) Annual Conference_, May 23-26, 2023, Odense, Denmark 
