@@ -10,18 +10,18 @@ redirect_from:
 ---
 Welcome to my web page!
 
-I am a **Lecturer (Assistant Professor) in Marketing** at the <a href="https://www.southampton.ac.uk/people/6679dt/doctor-ying-feng#about/"> Department of Digital and Data Driven Marketing</a>, Southampton Business School, University of Southampton. My research interests cover technology innovation, human-machine interaction, service marketing, sport marketing, and consumer well-being. 
+I am an **Assistant Professor in Sport Business and Management** at the School of Sport, Exercise and Rehabilitation Sciences, University of Birmingham. My research interests cover technology innovation, human-machine interaction, service marketing, sport marketing, and consumer well-being. 
 
-Before joining Southampton, I served as a Lecturer (Assistant Professor) in Marketing at Norwich Business School, University of East Anglia. 
+Before joining Birmingham, I served as a Lecturer (Assistant Professor) in Marketing at the University of Southampton and the University of East Anglia. 
 
-I have completed my **Ph.D. in Digital Technologies** at <a href="https://www.lborolondon.ac.uk/institutes/digital-technologies/">Institute for Digital Technologies</a>, at Loughborough University, London campus. 
+I have completed my **Ph.D. in Digital Technologies** at <a href="https://www.lborolondon.ac.uk/institutes/digital-technologies/">Institute for Digital Technologies</a>, Loughborough University, London campus. 
 
 I was a visiting PhD student at the **<a href="https://cambridge-afar.github.io/">AFAR lab</a>**, Department of Computer Science and Technology, University of Cambridge.  
 
 Before Ph.D., I received my **Master of Research (MRes) Sport Business** Degree with Distinction from the <a href="https://www.lborolondon.ac.uk/institutes/sport-business/">Institute for Sport Business</a>, at Loughborough University, and **BSc Sport Economics and Management** Degree at Beijing Sport University.
 
 
-# Lastest Publications
+# Latest Publications
 •**Ying Feng**, Jun Hwa (Jacky) Cheah* (2025), "Servitization of AI in Consumer Markets: Addressing Emotional Needs in Digital Fitness," _2025 Global Marketing Conference (GMC)_, July 24-27, 2025, Hong Kong, China
 
 •**Ying Feng**, Jun Hwa (Jacky) Cheah* (2025), "Bridging Emotional Gaps: The Role of Co-presence and Enjoyment in AI-Driven Fitness Services," _2025 The European Marketing Academy (EMAC) Annual Conference_, May 27-30, 2025, Pozuelo (Madrid), Spain 
