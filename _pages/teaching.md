@@ -17,7 +17,6 @@ MANG3111 Strategic Brand Management (UG-Y3) (2024-2025 Semester 2)
 
 MANG1015 Marketing Strategy (UG-Y1) (2024-2025 Semester 2)
 
-MANG6544 Dissertation for Marketing (PG) (2024-2025)
 
 
 
