@@ -8,7 +8,9 @@ redirect_from:
 ***
 
 # Work Experience
-**Lecturer (Assistant Professor) in Marketing**, University of Southampton, Southampton Business School, Department of Digital and Data Driven Marketing (November 2024-Now)
+**Assistant Professor in Sport Business and Management**, University of Birmingham, School of Sport, Exercise and Rehabilitation Sciences (June 2025-Now)
+
+**Lecturer (Assistant Professor) in Marketing**, University of Southampton, Southampton Business School, Department of Digital and Data Driven Marketing (November 2024-May 2025)
 
 **Lecturer (Assistant Professor) in Marketing**, University of East Anglia, Norwich Business School (October 2023-October 2024)
 
