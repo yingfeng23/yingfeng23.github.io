@@ -21,6 +21,11 @@ I serve as a peer-reviewer in my field.
 • **The Australian and New Zealand Marketing Academy** (ANZMAC). 2024 ANZMAC Annual Conference, Reviewer
 
 ***
+# PhD Supervision
+
+•Miss Veronica Deng (From 2024-), “AI Embedded Wearable Device Health Monitoring Application”, University of East Anglia, Co-supervision
+
+***
 
 # Leadership and Volunteer
 
