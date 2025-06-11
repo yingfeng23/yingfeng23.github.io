@@ -38,9 +38,6 @@ Before Ph.D., I received my **Master of Research (MRes) Sport Business** Degree 
 
 •	Grant and Funding Application                  
 
-•	Biometric Data Analysis (Eye-tracking/GSR)
-
-•	English (Fluent); Chinese (Native)
 
 
 
