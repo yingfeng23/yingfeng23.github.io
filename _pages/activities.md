@@ -11,6 +11,7 @@ author_profile: true
 I am a Fellow of the Higher Education Academy (FHEA), a member of the British Academy Early Career Researcher Network (ECRN), a member of the American Marketing Association (AMA), and a member of the Association for Consumer Research (ACR). 
 
 I serve as a peer-reviewer in my field.
+• **Psychology & Marketing**, Reviewer
 
 • **European Journal of Marketing**, Reviewer
 
