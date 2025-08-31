@@ -20,7 +20,7 @@ redirect_from:
 
 # Education
 
-**PhD in Digital Technologies**, Loughborough University, Insitute for Digital Technologies (2020-2024) 
+**PhD in Digital Technologies**, Loughborough University, Institute for Digital Technologies (2020-2024) 
 
 • Research Topic: Unlocking the Power of Digital Agency: Conceptualisation, Causality and Synergy.
 
@@ -34,9 +34,9 @@ redirect_from:
 • Supervisor: <a href="https://www.cst.cam.ac.uk/people/hg410">Professor Hatice Gunes</a>
 
 
-**MRes in Sport Business**, Loughborough University, Insitute for Sport Business (2018-2019) (**Best university in the world for sports-related subjects' title for eighth consecutive year**)
+**MRes in Sport Business**, Loughborough University, Institute for Sport Business (2018-2019) (**Best university in the world for sports-related subjects' title for ninth consecutive year**)
 
-• Research Topic: London Cycling Market Analysis: The Influence of Age and Cycling Purpose on Environment Attitudes.
+• Research Topic: London Cycling Market Analysis: The Influence of Age and Cycling Purpose on Environmental Attitudes.
 
 • Supervisor: <a href="https://scholar.google.co.uk/citations?user=zqAoJNgAAAAJ&hl=en">Dr Roy Meriton</a>
 
