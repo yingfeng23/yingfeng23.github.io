@@ -26,9 +26,11 @@ Before Ph.D., I received my **Master of Research (MRes) Sport Business** Degree 
 
 •**Ying Feng**, Jun Hwa (Jacky) Cheah* (2025), "Bridging Emotional Gaps: The Role of Co-presence and Enjoyment in AI-Driven Fitness Services," _2025 The European Marketing Academy (EMAC) Annual Conference_, May 27-30, 2025, Pozuelo (Madrid), Spain 
 
-•**Ying Feng***, Jie Meng, Jun Hwa (Jacky) Cheah (2024), ["From Virtual Trainers to Companions? Examining How Digital Agency Types, Anthropomorphism, and Support Shape Para-social Relationships in Online Fitness,"](https://doi.org/10.1002/mar.22154
+•**Ying Feng***, Jie Meng, Jun Hwa (Jacky) Cheah (2024), ["From Virtual Trainers to Companions? Examining How Digital Agency Types, Anthropomorphism, and Support Shape Para-social Relationships in Online Fitness,"](https://doi.org/10.1002/mar.22154) Psychology & Marketing, 42(3), 842-865. https://doi.org/10.1002/mar.22154
         
-        ) Psychology & Marketing, 42(3), 842-865. https://doi.org/10.1002/mar.22154
+        
+        
+        
         
         
                       
