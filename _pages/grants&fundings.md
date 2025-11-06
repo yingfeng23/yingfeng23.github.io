@@ -5,10 +5,8 @@ permalink: /grants&fundings/
 author_profile: true
 ---
 • Nov. 2025-Jul. 2026. **“Interdisciplinary Bid Development Grant”** from the University of Birmingham. (£7,000)
-
-**Project**: Synergistic Strategies in Food Health Psychology
-
-**Investigators**: Ying Feng, Zizhou Peng, Scott MaCabe
+-**Project**: Synergistic Strategies in Food Health Psychology
+-**Investigators**: Ying Feng, Zizhou Peng, Scott MaCabe
 
 • Jun. 2023. **“Chinese Government Award for Outstanding Self-financed Students Abroad”** from China Scholarship Council (The highest government award granted by the Chinese government to Chinese students overseas, globally selects 650 young talents from different disciplines every year). ($6,000)
 
