@@ -23,13 +23,17 @@ Before Ph.D., I received my **Master of Research (MRes) Sport Business** Degree 
 
 # Latest Publications
 
-•**Ying Feng**, Jun Hwa (Jacky) Cheah*, Tippayanet Sorosrungruang, Jie Meng, Senmao Xia (2026),["Can AI alleviate loneliness? The role of psychological closeness, co-presence and enjoyment in digital workout environment,"](https://doi.org/10.1108/INTR-11-2024-1843)_Internet Research_, Vol. ahead-of-print No. ahead-of-print, 1-21. https://doi.org/10.1108/INTR-11-2024-1843 (ABS 3, ABDC: A, JCR: Q1, IF:6.8, 9/535 in Communication (2026))
-
+•**Ying Feng**, Jun Hwa (Jacky) Cheah*, Tippayanet Sorosrungruang, Jie Meng, Senmao Xia (2026),["Can AI alleviate loneliness? The role of psychological closeness, co-presence and enjoyment in digital workout environment,"](https://doi.org/10.1108/INTR-11-2024-1843)_Internet Research_, Vol. ahead-of-print No. ahead-of-print, 1-21. https://doi.org/10.1108/INTR-11-2024-1843
+        
 •**Ying Feng**, Jun Hwa (Jacky) Cheah* (2025), "Servitization of AI in Consumer Markets: Addressing Emotional Needs in Digital Fitness," _2025 Global Marketing Conference (GMC)_, July 24-27, 2025, Hong Kong, China
 
 •**Ying Feng**, Jun Hwa (Jacky) Cheah* (2025), "Bridging Emotional Gaps: The Role of Co-presence and Enjoyment in AI-Driven Fitness Services," _2025 The European Marketing Academy (EMAC) Annual Conference_, May 27-30, 2025, Pozuelo (Madrid), Spain 
 
 •**Ying Feng***, Jie Meng, Jun Hwa (Jacky) Cheah (2024), ["From Virtual Trainers to Companions? Examining How Digital Agency Types, Anthropomorphism, and Support Shape Para-social Relationships in Online Fitness,"](https://doi.org/10.1002/mar.22154) Psychology & Marketing, 42(3), 842-865. https://doi.org/10.1002/mar.22154
+        
+        
+        
+        
         
                                
                             
