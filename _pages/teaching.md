@@ -6,7 +6,18 @@ author_profile: true
 ---
 
 ***
-# University of Southampton
+# University of Birmingham - School of Sport, Exercise and Rehabilitation Sciences
+LM41748 Leadership Development in Sport (2025-2026 Semester 1&2)
+
+LM41747 Innovation and Entrepreneurship in Sport (2025-2026 Semester 2)
+
+LM Dissertation(SBML) 2025/2026
+
+
+
+
+
+# University of Southampton - Southampton Business School
 MANG6336 Customer Insight (PG) (2024-2025 Semester 1)
 
 MANG1015 Introduction to Marketing (UG) (2024-2025 Semester 1)
@@ -21,7 +32,7 @@ MANG1015 Marketing Strategy (UG-Y1) (2024-2025 Semester 2)
 
 
 
-# University of East Anglia
+# University of East Anglia - Norwich Business School
 
 NBS-7036X Buyer Behaviour and Interactive Marketing (PG) (2023-2024 Semester 3)
 
@@ -34,7 +45,7 @@ NBS-7025A Strategic Marketing Management (PG) (2023-2024 Semester 1)
 
 
 
-# Loughborough University
+# Loughborough University - Institute for Digital Technologies
 LLP129 Strategic Marketing Management (PG) (2021-2023 Semester 1) 
 
 LLP125 Design Practice in Digital Industries (PG) (2021-2023 Semester 1)       
