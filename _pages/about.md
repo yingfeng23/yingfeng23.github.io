@@ -12,7 +12,7 @@ Welcome to my web page!
 
 I am an **Assistant Professor in Sport Business and Management** at the <a href="https://www.birmingham.ac.uk/staff/profiles/sportex/feng-ying">School of Sport, Exercise and Rehabilitation Sciences</a>, University of Birmingham. My research interests cover technology innovation, human-machine interaction, service marketing, sport marketing, and consumer well-being. 
 
-Before joining Birmingham, I served as a Lecturer (Assistant Professor) in Marketing at the University of Southampton and the University of East Anglia. 
+Before joining Birmingham, I served as a Lecturer (Assistant Professor) in Marketing at Business School of the University of Southampton and the University of East Anglia. 
 
 I have completed my **Ph.D. in Digital Technologies** at <a href="https://www.lborolondon.ac.uk/institutes/digital-technologies/">Institute for Digital Technologies</a>, Loughborough University, London campus. 
 
@@ -24,10 +24,7 @@ Before Ph.D., I received my **Master of Research (MRes) Sport Business** Degree 
 # Latest Publications
 
 •**Ying Feng**, Jun Hwa (Jacky) Cheah*, Tippayanet Sorosrungruang, Jie Meng, Senmao Xia (2026),["Can AI alleviate loneliness? The role of psychological closeness, co-presence and enjoyment in digital workout environment,"](https://doi.org/10.1108/INTR-11-2024-1843)_Internet Research_, Vol. ahead-of-print No. ahead-of-print, 1-21. https://doi.org/10.1108/INTR-11-2024-1843
-        
-•**Ying Feng**, Jun Hwa (Jacky) Cheah* (2025), "Servitization of AI in Consumer Markets: Addressing Emotional Needs in Digital Fitness," _2025 Global Marketing Conference (GMC)_, July 24-27, 2025, Hong Kong, China
-
-•**Ying Feng**, Jun Hwa (Jacky) Cheah* (2025), "Bridging Emotional Gaps: The Role of Co-presence and Enjoyment in AI-Driven Fitness Services," _2025 The European Marketing Academy (EMAC) Annual Conference_, May 27-30, 2025, Pozuelo (Madrid), Spain 
+       
 
 •**Ying Feng***, Jie Meng, Jun Hwa (Jacky) Cheah (2024), ["From Virtual Trainers to Companions? Examining How Digital Agency Types, Anthropomorphism, and Support Shape Para-social Relationships in Online Fitness,"](https://doi.org/10.1002/mar.22154) Psychology & Marketing, 42(3), 842-865. https://doi.org/10.1002/mar.22154
         
