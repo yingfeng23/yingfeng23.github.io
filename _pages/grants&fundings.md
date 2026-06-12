@@ -4,6 +4,10 @@ title: "Grants&Fundings"
 permalink: /grants&fundings/
 author_profile: true
 ---
+• Oct. 2026-Sep. 2027. **"Centre-UB Early Career Researcher Fellowship"** from the Centre-UB & ESRC. (£166,183)<br>
+-**Project**: Too Young to Consent: Uncovering the Developmental, Safety, and Privacy Risks of AI Toys for Children Under Five <br>
+-**Investigators**: Yuchen Wang, Ying Feng (Supervisor) Zizhou Peng (Supervisor)
+
 • Nov. 2025-Jul. 2026. **“Interdisciplinary Bid Development Grant”** from the University of Birmingham. (£7,000)<br>
 -**Project**: Synergistic Strategies in Food Health Psychology<br>
 -**Investigators**: Ying Feng, Zizhou Peng, Scott MaCabe
