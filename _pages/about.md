@@ -23,10 +23,18 @@ Before Ph.D., I received my **Master of Research (MRes) Sport Business** Degree 
 
 # Latest Publications
 
-•**Ying Feng**, Jun Hwa (Jacky) Cheah*, Tippayanet Sorosrungruang, Jie Meng, Senmao Xia (2026),["Can AI alleviate loneliness? The role of psychological closeness, co-presence and enjoyment in digital workout environment,"](https://doi.org/10.1108/INTR-11-2024-1843)_Internet Research_, Vol. ahead-of-print No. ahead-of-print, 1-21. https://doi.org/10.1108/INTR-11-2024-1843
+•**Ying Feng**, Jun Hwa (Jacky) Cheah*, Tippayanet Sorosrungruang, Jie Meng, Senmao Xia (2026),["Can AI alleviate loneliness? The role of psychological closeness, co-presence and enjoyment in digital workout environment,"](https://doi.org/10.1108/INTR-11-2024-1843)_Internet Research_, 36 (3), 926–946. https://doi.org/10.1108/INTR-11-2024-1843
+        
+        
+        
+        
        
 
 •**Ying Feng***, Jie Meng, Jun Hwa (Jacky) Cheah (2024), ["From Virtual Trainers to Companions? Examining How Digital Agency Types, Anthropomorphism, and Support Shape Para-social Relationships in Online Fitness,"](https://doi.org/10.1002/mar.22154) Psychology & Marketing, 42(3), 842-865. https://doi.org/10.1002/mar.22154
+        
+        
+        
+        
         
         
         
