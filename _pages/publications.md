@@ -19,6 +19,8 @@ A highlighted subset is listed below - these are papers I played a large role in
 
 
 ## Conference papers
+• Zitian Adam, **Ying Feng** (2026), "How Visual Indulgence Impacts Content Virality: the Role ofBrand Luxury," 2026 ISMS Marketing Science Conference, 11-13 June, Lisbon, Portugal.
+
 •	**Ying Feng**, Jun Hwa (Jacky) Cheah*, Jennifer Yee-Shan Chang, Zizhou Peng, Yuanming Qiu (2026), “Not Just There, but Real: How Telepresence Drives Authenticity and User Evaluations”, 2026 International Conference on Partial Least Squares Structural Equation Modeling (PLS-SEM), 2-5 September, Mauritius
 
 •	Yuanming Qiu, **Ying Feng***, Yuyang (Veronica) Deng, Jun Hwa (Jacky) Cheah, Rob Angell (2026), “From Wellness to Worrisome: Mining Online Voices on the Dark Side of Wearable Health Technologies,” 55th European Marketing Academy (EMAC) Annual Conference, 2-5 June, Bath, United Kingdom
