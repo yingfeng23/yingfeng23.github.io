@@ -4,7 +4,7 @@ title: "Grants&Fundings"
 permalink: /grants&fundings/
 author_profile: true
 ---
-• Oct. 2026-Sep. 2027. **"Centre-UB Early Career Researcher Fellowship"** from the Centre-UB & ESRC. (£164,883)<br>
+• Oct. 2026-Sep. 2027. **"Centre-UB Early Career Researcher Fellowship"** from the ESRC & Centre-UB. (£164,883)<br>
 -**Project**: Too Young to Consent: Uncovering the Developmental, Safety, and Privacy Risks of AI Toys for Children Under Five <br>
 -**Investigators**: Yuchen Wang (Fellow), Ying Feng (PI), Zizhou Peng (PI), Office for Product Safety and Standards (Partner)
 
