@@ -16,9 +16,7 @@ My interdisciplinary research lies at the intersection of consumer psychology, e
 
 Before joining the University of Birmingham, I held Lecturer (Assistant Professor) positions in Marketing at the University of Southampton and the University of East Anglia. 
 
-I completed my **Ph.D. in Digital Technologies** at <a href="https://www.lborolondon.ac.uk/institutes/digital-technologies/">Institute for Digital Technologies</a>, Loughborough University, London campus. During my doctoral studies, I was a visiting PhD researcher at the <a href="https://cambridge-afar.github.io/">AFAR lab</a>, Department of Computer Science and Technology, University of Cambridge.  
-
-I also hold an **Master of Research (MRes) Sport Business** Degree from the <a href="https://www.lborolondon.ac.uk/institutes/sport-business/">Institute for Sport Business</a>, at Loughborough University, and **BSc in Sport Economics and Management** from Beijing Sport University.
+I completed my **Ph.D. in Digital Technologies** at <a href="https://www.lborolondon.ac.uk/institutes/digital-technologies/">Institute for Digital Technologies</a>, Loughborough University, London campus. During my doctoral studies, I was a visiting PhD researcher at the <a href="https://cambridge-afar.github.io/">AFAR lab</a>, Department of Computer Science and Technology, University of Cambridge. I also hold an **Master of Research (MRes) Sport Business** Degree from the <a href="https://www.lborolondon.ac.uk/institutes/sport-business/">Institute for Sport Business</a>, at Loughborough University, and **BSc in Sport Economics and Management** from Beijing Sport University.
 
 
 # Latest Publications
