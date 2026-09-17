@@ -31,22 +31,22 @@ I serve as a peer-reviewer in my field.
 
 # Leadership and Volunteer
 
-**•	2021-2022. Postgraduate Research Representative | Loughborough University London**
+**•	2021-2022. Postgraduate Research Representative, Loughborough University London**
   
   o	Represented doctoral researchers in discussions with university colleagues, communicating cohort concerns and contributing to practical solutions and improvements to the postgraduate research experience.
 
 
-**•	Oct. 2018. Telemetry Data Operations Volunteer | Six Day London, Telemetry Data Operations team** 
+**•	Oct. 2018. Telemetry Data Operations Volunteer, Six Day London, Telemetry Data Operations team** 
   
   o	Supported the event’s telemetry operations by fitting, monitoring and removing sensors from professional cyclists’ bicycles and liaising with athletes on equipment requirements throughout the competition.
 
 
-**•	Apr. 2017. Conference Volunteer | CSMF Global Sports Industry Conference**
+**•	Apr. 2017. Conference Volunteer, CSMF Global Sports Industry Conference**
   
   o	Supported delegate reception and the effective operation of the main conference venue.
 
 
-**• 2014/2016. Event Volunteer | NBA China Wukesong Games**
+**• 2014/2016. Event Volunteer, NBA China Wukesong Games**
   
   o	Assisted with spectator guidance, venue access and event operations.
 
