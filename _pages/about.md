@@ -12,7 +12,7 @@ Welcome to my web page!
 
 I am an **Assistant Professor in Sport Business and Management** at the <a href="https://www.birmingham.ac.uk/staff/profiles/sportex/feng-ying">School of Sport, Exercise and Rehabilitation Sciences</a>, University of Birmingham. 
 
-My interdisciplinary research lies at the intersection of consumer psychology, emerging technologies and sport. I am particularly interested in human–AI interaction, digital anthropomorphism, service and sport marketing, and consumer well-being. My work examines how people perceive, interact with and respond to AI agents, robots, avatars and other technology-enabled services, particularly in sport, fitness and digital health contexts. I use quantitative, experimental and mixed-method approaches in my research.
+My interdisciplinary research lies at the intersection of consumer psychology, emerging technologies and sport. I am particularly interested in human–AI interaction, service and sport marketing, and consumer well-being. My work examines how people perceive, interact with and respond to AI agents, robots, avatars and other technology-enabled services, particularly in sport, fitness and digital health contexts. I use quantitative, experimental and mixed-method approaches in my research.
 
 Before joining the University of Birmingham, I held Lecturer (Assistant Professor) positions in Marketing at the University of Southampton and the University of East Anglia. 
 
