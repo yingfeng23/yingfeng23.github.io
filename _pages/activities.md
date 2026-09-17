@@ -31,17 +31,24 @@ I serve as a peer-reviewer in my field.
 
 # Leadership and Volunteer
 
-•	Oct. 2014/ 2016. **Volunteer** at the **NBA China Wukesong Games**, responsible for on-site entrance guidance and order maintenance.
+•	2021-2022. Postgraduate Research Representative | Loughborough University London 
+  o	Represented doctoral researchers in discussions with university colleagues, communicating cohort concerns and contributing to practical solutions and improvements to the postgraduate research experience.
 
-•	Apr. 2017. **Volunteer** at the **CSMF Global Sports Industry Conference**, responsible for maintaining order in the main conference hall and at the participants' reception.
 
-•	Oct. 2018. **Volunteer** at **Six Day London**, Telemetry Data Operations team, responsible for fitting, monitoring, and removing telemetry sensors to professional athletes’ bikes pre/during/post-event and communicating with professional athletes regarding equipment and sensors.
+•	Oct. 2018. Telemetry Data Operations Volunteer | Six Day London, Telemetry Data Operations team 
+  o	Supported the event’s telemetry operations by fitting, monitoring and removing sensors from professional cyclists’ bicycles and liaising with athletes on equipment requirements throughout the competition.
 
-•	Oct. 2019. **Volunteer** at the **15th World Chinese Entrepreneurs Convention**, responsible for the reception of VIPs and presentation of Tibetan companies and product exhibitions.
 
-•	Sep. 2021-Mar 2022. **Postgraduate Research Representative** at **Loughborough University London**, responsible for communicating with the University on behalf of the doctoral researchers, passing on problems and providing solutions.
+•	Apr. 2017. Conference Volunteer | CSMF Global Sports Industry Conference
+  o	Supported delegate reception and the effective operation of the main conference venue.
 
-•	2016-2018. **Network Administrator intern** at **Information Network Centre in Beijing Sport University**, responsible for daily campus network maintenance work.
+
+• 2014/2016. Event Volunteer | NBA China Wukesong Games
+  o	Assisted with spectator guidance, venue access and event operations.
+
+
+
+
 
 
 ***
