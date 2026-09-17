@@ -22,15 +22,17 @@ Before Ph.D., I received my **Master of Research (MRes) Sport Business** Degree 
 
 
 # Latest Publications
+•Zitian Adam*, **Ying Feng** (2026),["Indulgent visuals go viral? Brand luxury matters,"](https://link.springer.com/article/10.1007/s11002-026-09838-1) Marketing Letters, 37(43). https://doi.org/10.1007/s11002-026-09838-1 
 
-•**Ying Feng**, Jun Hwa (Jacky) Cheah*, Tippayanet Sorosrungruang, Jie Meng, Senmao Xia (2026),["Can AI alleviate loneliness? The role of psychological closeness, co-presence and enjoyment in digital workout environment,"](https://doi.org/10.1108/INTR-11-2024-1843)_Internet Research_, 36 (3), 926–946. https://doi.org/10.1108/INTR-11-2024-1843
-        
-        
-        
-        
-       
 
-•**Ying Feng***, Jie Meng, Jun Hwa (Jacky) Cheah (2024), ["From Virtual Trainers to Companions? Examining How Digital Agency Types, Anthropomorphism, and Support Shape Para-social Relationships in Online Fitness,"](https://doi.org/10.1002/mar.22154) Psychology & Marketing, 42(3), 842-865. https://doi.org/10.1002/mar.22154
+•**Ying Feng**, Jun Hwa (Jacky) Cheah*, Tippayanet Sorosrungruang, Jie Meng, Senmao Xia (2026),["Can AI alleviate loneliness? The role of psychological closeness, co-presence and enjoyment in digital workout environment,"](https://doi.org/10.1108/INTR-11-2024-1843) Internet Research, 36 (3), 926–946. https://doi.org/10.1108/INTR-11-2024-1843      
+      
+
+•**Ying Feng***, Jie Meng, Jun Hwa (Jacky) Cheah (2025), ["From Virtual Trainers to Companions? Examining How Digital Agency Types, Anthropomorphism, and Support Shape Para-social Relationships in Online Fitness,"](https://doi.org/10.1002/mar.22154) Psychology & Marketing, 42(3), 842-865. https://doi.org/10.1002/mar.22154
+        
+        
+        
+        
         
         
         
